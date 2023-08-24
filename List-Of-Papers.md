@@ -10,10 +10,8 @@ This list contains a collection of papers investigating lecture notes generation
 - [Text Sentiment Analysis on Persian Twitter](#Text-Sentiment-Analysis-on-Persian-Twitter)
 - [Facial Expression and Computer Vision studies on Twitter](#Facial-Expression-and-Computer-Vision-studies-on-Twitter)
 
-## People's personalities and feelings in social network
+## People's Personalities and Feelings in Social Network
 
-- [Deep learning-based personality recognition from text posts of online social networks](https://link.springer.com/article/10.1007/s10489-018-1212-4)
-  + Explanation: This paper proposes a deep learning-based approach for personality recognition from text posts of online social network users.
 - [Personality Traits Recognition on Social Network - Facebook](https://ojs.aaai.org/index.php/ICWSM/article/view/14464)
   + Explanation: This paper presents automatic recognition of Big-5 personality traits on social network (Facebook) using users’ status text.
 - [An Introduction to Social Network Analysis for Personality and Social Psychologists](https://journals.sagepub.com/doi/abs/10.1177/1948550617709114)
@@ -23,8 +21,10 @@ This list contains a collection of papers investigating lecture notes generation
 
 
 
-## AI methods for predicting personality
+## AI methods for Predicting Personality in Social Network
 
+- [Deep learning-based personality recognition from text posts of online social networks](https://link.springer.com/article/10.1007/s10489-018-1212-4)
+  + Explanation: This paper proposes a deep learning-based approach for personality recognition from text posts of online social network users.
 - [Personality Prediction of Social Network Users Using Ensemble and XGBoost](https://link.springer.com/chapter/10.1007/978-981-15-2414-1_14)
   + Explanation: This work focuses on the effective detection of the personality of social network users, using advanced classifiers such as XGBoost and Ensemble for prediction.
 
