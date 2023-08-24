@@ -7,7 +7,7 @@ This list contains a collection of papers investigating lecture notes generation
 - [People's personality in social network](#People's-personalities-and-feelings--in-social-network)
 - [AI methods for Predicting Personality in Social Network](#AI-methods-for-Predicting-Personality-in-Social-Network)
 - [Sentiment Analysis and Personality Prediction on Twitter](#Sentiment-Analysis-and-Personality-Prediction-on-Twitter)
-- [Sentiment Analysis and Personality Prediction on Persian Twitter](#Sentiment-Analysis-and-Personality-Prediction-on-Persian-Twitter)
+- [Sentiment Analysis and Personality Prediction on Persian Language and Twitter](#Sentiment-Analysis-and-Personality-Prediction-on-Persian-Language-and-Twitter)
 - [Facial Expression and Computer Vision studies on Twitter](#Facial-Expression-and-Computer-Vision-studies-on-Twitter)
 
 ## People's Personalities and Feelings in Social Network
@@ -46,13 +46,19 @@ This list contains a collection of papers investigating lecture notes generation
   + Explanation: In this work, the development of a data analysis model with machine learning algorithms with the ability to predict the personality of a user based on their activity on Twitter is proposed. To do this, a data collection and transformation process is carried out to be analyzed with sentiment analysis techniques and the linguistic analysis of tweets
 - [Predicting Personality from Twitter](https://ieeexplore.ieee.org/abstract/document/6113107)
   + Explanation: In this paper, a method is presented by which a user's personality can be accurately predicted through the publicly available information on their Twitter profile.
+- [Mining User Personality in Twitter](https://www.researchgate.net/profile/Fabio-Celli/publication/268433988_Mining_User_Personality_in_Twitter/links/551933a90cf273292e70d840/Mining-User-Personality-in-Twitter.pdf)
+  + Explanation: The paper describes how we collected and annotated “Personalitwit”, a corpus of 25700 posts from the popular micro-blogging site Twitter, automatically annotated by user personality and by language with two computational linguistic tools. From the analysis of that data emerged how different writng styles and personality models are associated to different communitites using different devices to post to Twitter.
+- [You are what you tweet: Personality expression and perception on Twitter](https://www.sciencedirect.com/science/article/abs/pii/S009265661200133X)
+  + Explanation: In this study, we measured the Big Five personality traits of 142 participants and collected their tweets over a 1-month period. Extraversion, agreeableness, openness, and neuroticism were associated with specific linguistic markers, suggesting that personality manifests in microblogs. 
 
 
 
-## Sentiment Analysis and Personality Prediction on Persian Twitter
+## Sentiment Analysis and Personality Prediction on Persian Language and Twitter
 
 - [MBTI Personality Prediction Approach on Persian Twitter](https://www.winlp.org/wp-content/uploads/2022/11/28_Paper.pdf)
   + Explanation: In this paper, since there is no substantial study on Persian speakers’ personality detection, an efficient and high performance personality detection system in the Persian language is presented.
+- [Adaptation of Sentiment Analysis Techniques to Persian Language](https://link.springer.com/chapter/10.1007/978-3-319-77116-8_10)
+  + Explanation: Sentiment analysis research has been growing rapidly; however, most of the research papers are focused on English. In this paper, we review English-based sentiment analysis approaches and discuss what adaption these approaches require to become applicable to the Persian language.
   
 
 ## Facial Expression and Computer Vision studies on Twitter
