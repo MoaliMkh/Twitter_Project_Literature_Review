@@ -5,7 +5,7 @@ This list contains a collection of papers investigating lecture notes generation
 ## Table of Contents
 
 - [People's personality in social network](#People's-personalities-and-feelings--in-social-network)
-- [AI methods for predicting personality](#AI-methods-for-predicting-personality)
+- [AI methods for Predicting Personality in Social Network](#AI-methods-for-Predicting-Personality-in-Social-Network)
 - [Text Sentiment Analysis on Twitter](#Text-Sentiment-Analysis-on-Twitter)
 - [Text Sentiment Analysis on Persian Twitter](#Text-Sentiment-Analysis-on-Persian-Twitter)
 - [Facial Expression and Computer Vision studies on Twitter](#Facial-Expression-and-Computer-Vision-studies-on-Twitter)
