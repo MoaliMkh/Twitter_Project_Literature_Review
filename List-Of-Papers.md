@@ -1,7 +1,5 @@
 # Literature Review on Persian Twitter Analysis and People's Personality on Social Networks
 
-This list contains a collection of papers investigating lecture notes generation with the aid of LLMs.
-
 ## Table of Contents
 
 - [People's personality in social network](#People's-personalities-and-feelings--in-social-network)
@@ -37,6 +35,8 @@ This list contains a collection of papers investigating lecture notes generation
   + Explanation: In this paper, a new level of image understanding with the ultimate goal of relating a set of image preferences to personality traits by using a deep learning framework is explored.
 - [Analysis of the Relationship between the Users Personality Traits and the Images They Post on Social Media](https://www.sciencedirect.com/science/article/pii/S1877050921020561)
   + Explanation: In this study, a clustering model for digital traces of users is proposed based on VGG16 deep learning model and a K-means clustering algorithm. It uses this model for predictive analytics of digital footprints in the form of arbitrary images.
+- [Recent trends in deep learning based personality detection](https://link.springer.com/article/10.1007/s10462-019-09770-z)
+  + Explanation: In this paper, we review significant machine learning models which have been employed for personality detection, with an emphasis on deep learning-based methods. 
 
 
 
@@ -59,6 +59,8 @@ This list contains a collection of papers investigating lecture notes generation
   + Explanation: In this paper, since there is no substantial study on Persian speakers’ personality detection, an efficient and high performance personality detection system in the Persian language is presented.
 - [Adaptation of Sentiment Analysis Techniques to Persian Language](https://link.springer.com/chapter/10.1007/978-3-319-77116-8_10)
   + Explanation: Sentiment analysis research has been growing rapidly; however, most of the research papers are focused on English. In this paper, we review English-based sentiment analysis approaches and discuss what adaption these approaches require to become applicable to the Persian language.
+- [A transformer-based deep learning model for Persian moral sentiment analysis](https://journals.sagepub.com/doi/abs/10.1177/01655515231188344)
+  + Explanation: We developed a Twitter data set of 8000 tweets that are manually annotated for moral foundations and also we established a baseline for computing moral sentiment from Persian text. We evaluate a plethora of state-of-the-art machine learning models, both rule-based and neural, including distributed dictionary representation (DDR), long short-term memory (LSTM) and bidirectional encoder representations from transformer (BERT) to address the issue of Moral Foundation theory (MFT).
   
 
 ## Facial Expression and Computer Vision studies on Twitter
