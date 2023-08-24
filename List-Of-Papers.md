@@ -1,4 +1,4 @@
-# Literature Review on intersection of LLMs and Lecuture Note Generation
+# Literature Review on Persian Twitter Analysis and People's Personality on Social Networks
 
 This list contains a collection of papers investigating lecture notes generation with the aid of LLMs.
 
@@ -13,14 +13,14 @@ This list contains a collection of papers investigating lecture notes generation
 ## People's personalities and feelings in social network
 
 - [Deep learning-based personality recognition from text posts of online social networks](https://link.springer.com/article/10.1007/s10489-018-1212-4)
-  Explanation: This paper proposes a deep learning-based approach for personality recognition from text posts of online social network users.
++ Explanation: This paper proposes a deep learning-based approach for personality recognition from text posts of online social network users.
 - [Personality Traits Recognition on Social Network - Facebook](https://ojs.aaai.org/index.php/ICWSM/article/view/14464)
-  Explanation: This paper presents automatic recognition of Big-5 personality traits on social network (Facebook) using users’ status text.
++ Explanation: This paper presents automatic recognition of Big-5 personality traits on social network (Facebook) using users’ status text.
 - [An Introduction to Social Network Analysis for Personality and Social Psychologists](https://journals.sagepub.com/doi/abs/10.1177/1948550617709114)
-  Explanation: This paper discusses Social network analysis (SNA). SNA is a methodology for studying the connections and behavior of individuals within social groups.
++ Explanation: This paper discusses Social network analysis (SNA). SNA is a methodology for studying the connections and behavior of individuals within social groups.
 - [Friends don't lie: inferring personality traits from social network structure](https://dl.acm.org/doi/abs/10.1145/2370216.2370266)
-  Explanation: This article investigates the relationships between social network structure and personality; it assesses the performances of different subsets of structural network features, and in particular those concerned with ego-networks, in predicting the Big-5 personality traits. In addition to traditional survey-based data, this work focuses on social networks derived from real-life data gathered through smartphones.
-- [Assessment of active learning with upper division computer science students](https://www.researchgate.net/publication/4054740_Assessment_of_active_learning_with_upper_division_computer_science_students)
++ Explanation: This article investigates the relationships between social network structure and personality; it assesses the performances of different subsets of structural network features, and in particular those concerned with ego-networks, in predicting the Big-5 personality traits. In addition to traditional survey-based data, this work focuses on social networks derived from real-life data gathered through smartphones.
+
 
 
 ## AI methods for predicting personality
