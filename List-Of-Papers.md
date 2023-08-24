@@ -18,7 +18,7 @@ This list contains a collection of papers investigating lecture notes generation
   + Explanation: This paper discusses Social network analysis (SNA). SNA is a methodology for studying the connections and behavior of individuals within social groups.
 - [Friends don't lie: inferring personality traits from social network structure](https://dl.acm.org/doi/abs/10.1145/2370216.2370266)
   + Explanation: This article investigates the relationships between social network structure and personality; it assesses the performances of different subsets of structural network features, and in particular those concerned with ego-networks, in predicting the Big-5 personality traits. In addition to traditional survey-based data, this work focuses on social networks derived from real-life data gathered through smartphones.
-- [Systematical Approach for Detecting the Intention and Intensity of Feelings on Social] Network(https://ieeexplore.ieee.org/abstract/document/7421935)
+- [Systematical Approach for Detecting the Intention and Intensity of Feelings on Social Network](https://ieeexplore.ieee.org/abstract/document/7421935)
   + Explanation: In this paper, a Feeling Distinguisher system is built based on supervised Latent Dirichlet Allocation (sLDA), Latent Dirichlet Allocation, and SentiWordNet methodologies for detecting a person's intention and intensity of feelings through the analysis of his/her online posts.
 - [Adaptive Personality Recogntion from Text](http://eprints-phd.biblio.unitn.it/828/)
   + Explanation: This paper addresses the issue of domain adaptation for automatic Personality Recognition from Text (PRT). The PRT task consists in the classification of the personality traits of some authors, given some pieces of text they wrote.
