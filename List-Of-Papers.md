@@ -16,8 +16,6 @@
   + This article investigates the relationships between social network structure and personality; it assesses the performances of different subsets of structural network features, and in particular those concerned with ego-networks, in predicting the Big-5 personality traits. In addition to traditional survey-based data, this work focuses on social networks derived from real-life data gathered through smartphones.
 - [Systematical Approach for Detecting the Intention and Intensity of Feelings on Social Network](https://ieeexplore.ieee.org/abstract/document/7421935)
   + In this paper, a Feeling Distinguisher system is built based on supervised Latent Dirichlet Allocation (sLDA), Latent Dirichlet Allocation, and SentiWordNet methodologies for detecting a person's intention and intensity of feelings through the analysis of his/her online posts.
-- [Adaptive Personality Recogntion from Text](http://eprints-phd.biblio.unitn.it/828/)
-  + This paper addresses the issue of domain adaptation for automatic Personality Recognition from Text (PRT). The PRT task consists in the classification of the personality traits of some authors, given some pieces of text they wrote.
 - [Personality and Social Network Involvement as Predictors of Helping Behavior in Everyday Life](https://www.jstor.org/stable/2786867)
   + In one of the studies discuessed in this paper, it is stated that characteristics of individuals, in general, are related more strongly to planned forms of helping than to spontaneous forms of helping. Social network variables also are found to be better predictors of self-reported helping behavior than are traditional personality variables.
 - [Personality and social networks in organizations: A review and future directions](https://onlinelibrary.wiley.com/doi/abs/10.1002/job.2004)
@@ -26,6 +24,8 @@
 
 ## AI methods for Predicting Personality in Social Network
 
+- [Adaptive Personality Recogntion from Text](http://eprints-phd.biblio.unitn.it/828/)
+  + This paper addresses the issue of domain adaptation for automatic Personality Recognition from Text (PRT). The PRT task consists in the classification of the personality traits of some authors, given some pieces of text they wrote.
 - [Personality Traits Recognition on Social Network - Facebook](https://ojs.aaai.org/index.php/ICWSM/article/view/14464)
   + This paper presents automatic recognition of Big-5 personality traits on social network (Facebook) using users’ status text.
 - [Deep learning-based personality recognition from text posts of online social networks](https://link.springer.com/article/10.1007/s10489-018-1212-4)
