@@ -28,10 +28,10 @@
   + This paper addresses the issue of domain adaptation for automatic Personality Recognition from Text (PRT). The PRT task consists in the classification of the personality traits of some authors, given some pieces of text they wrote.
 - [Personality Traits Recognition on Social Network - Facebook](https://ojs.aaai.org/index.php/ICWSM/article/view/14464)
   + This paper presents automatic recognition of Big-5 personality traits on social network (Facebook) using users’ status text.
-- [Deep learning-based personality recognition from text posts of online social networks](https://link.springer.com/article/10.1007/s10489-018-1212-4)
-  + This paper proposes a deep learning-based approach for personality recognition from text posts of online social network users.
 - [Personality Prediction of Social Network Users Using Ensemble and XGBoost](https://link.springer.com/chapter/10.1007/978-981-15-2414-1_14)
   + This work focuses on the effective detection of the personality of social network users, using advanced classifiers such as XGBoost and Ensemble for prediction.
+- [Deep learning-based personality recognition from text posts of online social networks](https://link.springer.com/article/10.1007/s10489-018-1212-4)
+  + This paper proposes a deep learning-based approach for personality recognition from text posts of online social network users.
 - [Latent Personality Traits Assessment From Social Network Activity Using Contextual Language Embedding](https://ieeexplore.ieee.org/abstract/document/9531972)
   + Explantion: This study examines the potency of emerging natural language processing (NLP) methods in analyzing social network activity. A linguostylistic personality traits assessment (LPTA) system is developed to estimate Twitter users’ personality traits based on their tweets using the Myers-Briggs-type indicator (MBTI) and big-five personality scales.
 - [Social profiling through image understanding: Personality inference using convolutional neural networks](https://www.sciencedirect.com/science/article/abs/pii/S1077314216301679)
