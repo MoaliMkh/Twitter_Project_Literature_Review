@@ -10,8 +10,6 @@
 
 ## People's Personalities and Feelings in Social Network
 
-- [Personality Traits Recognition on Social Network - Facebook](https://ojs.aaai.org/index.php/ICWSM/article/view/14464)
-  + Explanation: This paper presents automatic recognition of Big-5 personality traits on social network (Facebook) using users’ status text.
 - [An Introduction to Social Network Analysis for Personality and Social Psychologists](https://journals.sagepub.com/doi/abs/10.1177/1948550617709114)
   + Explanation: This paper discusses Social network analysis (SNA). SNA is a methodology for studying the connections and behavior of individuals within social groups.
 - [Friends don't lie: inferring personality traits from social network structure](https://dl.acm.org/doi/abs/10.1145/2370216.2370266)
@@ -25,6 +23,8 @@
 
 ## AI methods for Predicting Personality in Social Network
 
+- [Personality Traits Recognition on Social Network - Facebook](https://ojs.aaai.org/index.php/ICWSM/article/view/14464)
+  + Explanation: This paper presents automatic recognition of Big-5 personality traits on social network (Facebook) using users’ status text.
 - [Deep learning-based personality recognition from text posts of online social networks](https://link.springer.com/article/10.1007/s10489-018-1212-4)
   + Explanation: This paper proposes a deep learning-based approach for personality recognition from text posts of online social network users.
 - [Personality Prediction of Social Network Users Using Ensemble and XGBoost](https://link.springer.com/chapter/10.1007/978-981-15-2414-1_14)
