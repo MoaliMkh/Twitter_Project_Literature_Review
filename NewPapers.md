@@ -117,10 +117,23 @@
   + This paper proposes EEPT that is an online clustering method able to discover EEs without any need for training on a dataset. Additionally, due to the lack of a proper evaluation metric, this paper uses a new metric to evaluate the results.
 
 
-- [Abusive words Detection in Persian tweets using machine learning and deep learning techniques](https://ieeexplore.ieee.org/abstract/document/9729390)
-  + In the present article, a deep learning method is presented to detect users' Abusive words in Persian tweets.
+- [Twitter sentiment analysis from Iran about COVID 19 vaccine](https://www.sciencedirect.com/science/article/pii/S1871402121003878)
+  + First, a total of 803278 Persian tweets were retrieved from Twitter, mentioning COVIran Barekat (the homegrown vaccine), Pfizer/BioNTech, AstraZeneca/Oxford, Moderna, and Sinopharm (imported vaccines) between April 1, 2021 and September 30, 2021. Then, we identified sentiments of retrieved tweets using a deep learning sentiment analysis model based on CNN-LSTM architecture. Finally, we investigated Iranian views toward COVID-19-vaccination.
 
+- [Belief Mining in Persian Texts Based on Deep Learning and Users' Opinions (revised December 2022)](https://ieeexplore.ieee.org/abstract/document/10158496)
+  +  In this method, first, the data is preprocessed with a deep neural network and then classified into political, cultural, economic, and sports classes, and the sentimental polarity is obtained. SentiPers is applied on four different datasets from Persian Twitter, Digikala store, Google translator, and synonym for evaluation.
+ 
 
+- [Persian Emoji Prediction Using Deep Learning and Emoji Embedding](https://ieeexplore.ieee.org/abstract/document/9303639)
+  + In this article, using deep neural networks an attempt for the first time has been made to predict the emoji for Persian text data extracted from Twitter.
+ 
+
+- [The application of Deep Learning in Persian Documents Sentiment Analysis](https://ijism.ricest.ac.ir/article_698303.html)
+  + In this work, the authors proposed a hybrid method by a combination of structural correspondence learning (SCL) and convolutional neural network (CNN). The SCL method selects the most effective pivot features so the adaptation from one domain to similar ones cannot drop the efficiency drastically.
+ 
+
+- [Deep Learning-based Sentiment Analysis in Persian Language](https://ieeexplore.ieee.org/abstract/document/9443152)
+  + In this research, a hybrid deep learning-based sentiment analysis model proposed and implemented on customer reviews data of Digikala Online Retailer website. We already applied the classifier based on various deep learning networks and regularization techniques.
 
 
 ## Facial Expression and Computer Vision studies on Twitter
