@@ -49,6 +49,14 @@
 - [Parallel Computing for Machine Learning in Social Network Analysis](https://ieeexplore.ieee.org/abstract/document/7965209)
   + This paper discusses the state of each ingredient with a specific focus on: a.) how deep learning can apply to large-scale social network analysis and; b.) the computing resources required to make such analyses feasible.
 
+- [Depression detection from social network data using machine learning techniques](https://link.springer.com/article/10.1007/s13755-018-0046-0)
+  +  In this study, we aim to perform depression analysis on Facebook data collected from an online public source. To investigate the effect of depression detection, we propose machine learning technique as an efficient and scalable method.
+
+- [Machine Learning for Social Network Analysis: A Systematic Literature Review](https://www.researchgate.net/profile/Sagar-S-De/publication/251236864_Machine_Learning_for_Social_Network_Analysis_A_Systematic_Literature_Review/links/59e8914e458515c363133f6a/Machine-Learning-for-Social-Network-Analysis-A-Systematic-Literature-Review.pdf)
+  +  In this paper, we have reviewed the theoretical aspects of social network analysis with a combination of machine learning-based techniques, its representation, tools and techniques used for analysis. Additionally, the source of data and its applications are also highlighted in this paper.
+ 
+- [Intelligent detection of hate speech in Arabic social network: A machine learning approach](https://journals.sagepub.com/doi/abs/10.1177/0165551520917651)
+  +  This drew our attention to aspire healthy online environments that are free of hatred and discrimination. Therefore, this article aims to detect cyber hate speech based on Arabic context over Twitter platform, by applying Natural Language Processing (NLP) techniques, and machine learning methods. 
 
 ## Sentiment Analysis and Personality Prediction on Twitter
 
