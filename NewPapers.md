@@ -9,6 +9,24 @@
 - [Facial Expression and Computer Vision studies on Twitter](#Facial-Expression-and-Computer-Vision-studies-on-Twitter)
 
 ## People's Personalities and Feelings in Social Network
+ 
+- [Personality and motivations associated with Facebook use](https://www.sciencedirect.com/science/article/abs/pii/S0747563208002355)
+  + The present research investigated how the Five-Factor Model of personality relates to Facebook use. Despite some expected trends regarding Extraversion and Openness to Experience, results indicated that personality factors were not as influential as previous literature would suggest.
+ 
+- [Social network use and personality](https://www.sciencedirect.com/science/article/pii/S0747563210000580)
+  + They found that while there was a connection between the personalities of surfers and their behavior on Facebook, it was not strong. This study is based on that of Ross et al. (2009), but in our study the self-reports of subjects, were replaced by more objective criteria, measurements of the user-information upload on Facebook.
+ 
+- [Seeing things clearly: social structure, personality, and accuracy in social network perception](https://www.sciencedirect.com/science/article/abs/pii/S0378873398000082)
+  + This paper argues that the study of accuracy in social network perception should consider the effect of both situational factors and individual differences. 
+ 
+- [Personality on Social Network Sites: An Application of the Five Factor Model](https://repec.ethz.ch/ets/papers/wehrli_studivz_big5.pdf)
+  + In this paper we explore how individual personality characteristics influence online social networking behavior.
+ 
+- [Leadership as an emergent group process: A social network study of personality and leadership](https://journals.sagepub.com/doi/abs/10.1177/1368430212461835)
+  + A longitudinal study was conducted on the social network of a leaderless group to explore how Big Five personality traits affect leadership emergence, in the form of receiver ties (being nominated as a leader), sender ties (nominating others as leaders), and similarity effects (nominating similar/different others as leaders).
+ 
+- [Emerging Late Adolescent Friendship Networks and Big Five Personality Traits: A Social Network Approach](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-6494.2010.00625.x)
+  + The current study focuses on the emergence of friendship networks among just-acquainted individuals, investigating the effects of Big Five personality traits on friendship selection processes.
 
 
 ## AI methods and Social Network
