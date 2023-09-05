@@ -93,10 +93,34 @@
   + We present a comparative study of different lexicon combinations and show that enhancing sentiment lexicons with emoticons, abbreviations and social-media slang expressions increases the accuracy of lexicon-based classification for Twitter. We discuss the importance of feature generation and feature selection processes for machine learning sentiment classification.
  
 - [Study of Twitter Sentiment Analysis using Machine Learning Algorithms on Python](https://www.researchgate.net/profile/Priyanka-Badhani/publication/317058859_Study_of_Twitter_Sentiment_Analysis_using_Machine_Learning_Algorithms_on_Python/links/60fbebe50c2bfa282af92131/Study-of-Twitter-Sentiment-Analysis-using-Machine-Learning-Algorithms-on-Python.pdf)
-  +  In this paper, we aim to review some papers regarding research in sentiment analysis on Twitter, describing the methodologies adopted and models applied, along with describing a generalized Python based approach. 
+  + In this paper, we aim to review some papers regarding research in sentiment analysis on Twitter, describing the methodologies adopted and models applied, along with describing a generalized Python based approach. 
  
 
 ## Sentiment Analysis and Personality Prediction on Persian Language and Twitter
+
+- [Mapping the political landscape of Persian Twitter: The case of 2013 presidential election](https://journals.sagepub.com/doi/full/10.1177/2053951719835232)
+  + This paper aims to present such cartography of the political landscape of Persian Twitter by studying the case of Iran's 2013 presidential election. The objective of this study is twofold: first, to fill the empirical gap in our knowledge about Twitter use in Iran, and second, to develop computational methods for studying Persian Twitter (e.g., effective methods for analyzing Persian text) and identify the best methods for addressing different issues (e.g., topic detection and sentiment analysis).
+ 
+- [A predictive model based on machine learning methods to recognize fake Persian news on twitter](https://journals.semnan.ac.ir/article_4563.html)
+  + The present study has attempted to use machine learning algorithms including SVM, k-NN, decision tree, random forest and MLP, to identify and classify fake and real news in the data set collected from Persian Twitter messenger.
+ 
+- [Persian Rumor Detection on Twitter](https://ieeexplore.ieee.org/abstract/document/8661007)
+  + Sometimes rumors get around between users, such that they may make some mistakes about what are exactly happened. If rumors has been recognized at the right time, their negative effects can be bounded. In order to differentiate between rumors and non-rumors tweets, various well-known machine learning methods are applied on KNTUPT dataset which is collected all persian tweets from November 24th, 2017 to December 8th, 2017.
+ 
+- [The Use of LSTM Neural Network to Detect Fake News on Persian Twitter](https://www.turcomat.org/index.php/turkbilmat/article/view/7079)
+  + In this study, a hybrid model of long short term memory (LSTM) and 14-layer bidirectional long short term memory (BLSTM) neural network has been used to identify the fake news on Persian texts and tweets.
+ 
+- [The Clash of Ideologies on Persian Twitter](https://d1wqtxts1xzle7.cloudfront.net/67518699/The_Clash_of_Ideologies_on_Persian_Twitter-libre.pdf?1622833771=&response-content-disposition=inline%3B+filename%3DThe_Clash_of_Ideologies_on_Persian_Twitt.pdf&Expires=1693918025&Signature=NXXaS5WIizCom1dQMjOujReTagCuH9s4BMvLvCPF5Ue380v0HO2ct3e5dP9EgBonG17loNZXa5GNJL3AZVTpZLs8ajRmxzcTBb3Zsh9004evXZI~Gz5aQGoVMNLZ8-icx1zn41bKHOzkRTP8nTFAE6yA7Zgo85jXwghq3CvlUrnC2c3u7oXR7Ny-kzJCe-QyXl-8-zmkG1SBorNDspkCwxypo-VFxz24V07uFVdVoz1FvZB5JyaSGWGM9txmxI98V6lHZiO4DWZItQpxgn7Km9yJbrwRl4KdJ2mT00bG18EJuHfrIuepXviEd35H1PBveAbBsegxINzYuBomwacAEw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+  + In this paper, we provide a data-driven analysis of the Persian Twittersphere from a political perspective to demonstrate how the balance of power in the battle of ideas and ideologies has evolved over time, both in numeric terms and qualitatively.
+
+- [Early Discovery of Emerging Entities in Persian Twitter with Semantic Similarity](https://ieeexplore.ieee.org/abstract/document/10139028)
+  + This paper proposes EEPT that is an online clustering method able to discover EEs without any need for training on a dataset. Additionally, due to the lack of a proper evaluation metric, this paper uses a new metric to evaluate the results.
+
+
+- [Abusive words Detection in Persian tweets using machine learning and deep learning techniques](https://ieeexplore.ieee.org/abstract/document/9729390)
+  + In the present article, a deep learning method is presented to detect users' Abusive words in Persian tweets.
+
+
 
 
 ## Facial Expression and Computer Vision studies on Twitter
