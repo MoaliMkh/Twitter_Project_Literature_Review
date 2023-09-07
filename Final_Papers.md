@@ -73,7 +73,10 @@
       + In this study, a clustering model for digital traces of users is proposed based on VGG16 deep learning model and a K-means clustering algorithm. It uses this model for predictive analytics of digital footprints in the form of arbitrary images.
     - [Personality Prediction of Social Network Users Using Ensemble and XGBoost](https://link.springer.com/chapter/10.1007/978-981-15-2414-1_14)
       + This work focuses on the effective detection of the personality of social network users, using advanced classifiers such as XGBoost and Ensemble for prediction.
-
+    - [Personality Traits Recognition on Social Network - Facebook](https://ojs.aaai.org/index.php/ICWSM/article/view/14464)
+      + This paper presents automatic recognition of Big-5 personality traits on social network (Facebook) using users’ status text.
+    - [Machine Learning for Social Network Analysis: A Systematic Literature Review](https://www.researchgate.net/profile/Sagar-S-De/publication/251236864_Machine_Learning_for_Social_Network_Analysis_A_Systematic_Literature_Review/links/59e8914e458515c363133f6a/Machine-Learning-for-Social-Network-Analysis-A-Systematic-Literature-Review.pdf)
+      + In this paper, we have reviewed the theoretical aspects of social network analysis with a combination of machine learning-based techniques, its representation, tools and techniques used for analysis. Additionally, the source of data and its applications are also highlighted in this paper.
 
 
   + [Deep Learning](#Deep-Learning)
@@ -81,6 +84,15 @@
       + In this paper, we provide an overview of state-of-the-art research for different applications of social network analysis using deep learning techniques. We consider applications such as opinion analysis, sentiment analysis, text classification, recommender systems, structural analysis, anomaly detection, and fake news detection.
     - [A Fast Recognition Algorithm of Online Social Network Images Based on Deep Learning](https://web.p.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=07650019&AN=141469465&h=zjCtzHiUvxX2NAELCmkIMcUDU2vwv%2fwTjcHqAUJS%2fiSYpNi7YKJxdQWYQE%2ffl7HXbrQmkpDzcG5Mx8pqUB%2bPNw%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d07650019%26AN%3d141469465)
       + In the proposed method, the image classification is enhanced by improving the self-adaptive learning rate based on incremental discrimination of reconstruction error and the weight update criteria with increasing momentum.
+     
+    - [Deep learning-based personality recognition from text posts of online social networks](https://link.springer.com/article/10.1007/s10489-018-1212-4)
+      + This paper proposes a deep learning-based approach for personality recognition from text posts of online social network users.
+    - [Latent Personality Traits Assessment From Social Network Activity Using Contextual Language Embedding](https://ieeexplore.ieee.org/abstract/document/9531972)
+      + Explantion: This study examines the potency of emerging natural language processing (NLP) methods in analyzing social network activity. A linguostylistic personality traits assessment (LPTA) system is developed to estimate Twitter users’ personality traits based on their tweets using the Myers-Briggs-type indicator (MBTI) and big-five personality scales.
+    - [Social profiling through image understanding: Personality inference using convolutional neural networks](https://www.sciencedirect.com/science/article/abs/pii/S1077314216301679)
+      + In this paper, a new level of image understanding with the ultimate goal of relating a set of image preferences to personality traits by using a deep learning framework is explored.
+    - [Recent trends in deep learning based personality detection](https://link.springer.com/article/10.1007/s10462-019-09770-z)
+      + In this paper, we review significant machine learning models which have been employed for personality detection, with an emphasis on deep learning-based methods. 
      
 
   + [Depression Detection](#Depression-Detection)
@@ -99,14 +111,27 @@
  
     - [Using deep learning and social network analysis to understand and manage extreme flooding](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-5973.12311)
       + This paper uses a subset of machine learning, deep learning (DL), to classify text content of 11,982 tweets, and we integrate that with SNA to understand the structure of tweet interactions. Our DL approach pre-trains our model with a DL language technique, BERT, and then trains the model using the standard training dataset to sort a dataset of tweets into classes tailored to crisis events.
+     
+    - [Identifying patterns of epistemic emotions with respect to interactions in massive online open courses using deep learning and social network analysis](https://www.sciencedirect.com/science/article/abs/pii/S0747563221001667)
+      + By gathering multiple data generated by 1190 Chinese learners, this study employed a combination method of deep learning and social network analysis (SNA) to identify patterns of epistemic emotions with respect to interactions on a MOOC platform.
+     
+    - [Detecting Compromised Social Network Accounts Using Deep Learning for Behavior and Text Analyses](https://www.igi-global.com/article/detecting-compromised-social-network-accounts-using-deep-learning-for-behavior-and-text-analyses/274340)
+      + This article proposes a novel system for detecting compromises of a social network account by considering both post behavior and textual content. A deep multi-layer perceptron-based autoencoder is leveraged to consolidate diverse features and extract underlying relationships.
+    
+    - [Travel Behavior Classification: An Approach with Social Network and Deep Learning](https://journals.sagepub.com/doi/abs/10.1177/0361198118772723)
+      + This study first examines the dataset of California Household Travel Survey (CHTS) between the years 2012 and 2013. After preprocessing and exploring the raw data, an activity matrix is constructed for each participant. The Jaccard similarity coefficient is employed to calculate matrix similarities between each pair of individuals. Moreover, given matrix similarity measures, a community social network is constructed for all participants.
+    
+    - [Combining Machine Learning and Social Network Analysis to Reveal the Organizational Structures](https://www.mdpi.com/2076-3417/10/5/1699)
+      + The key concept of this work is to evaluate how well social network measures when combined with other features gained from the feature engineering align with the classification of the members of organizational social network. As a technique for answering this research question, machine learning apparatus was employed. Here, for the classification task, Decision Trees, Random Forest, Neural Networks and Support Vector Machines have been evaluated, as well as a collective classification algorithm, which is also proposed in this paper.
+    
+    - [An approach to predicting patient experience through machine learning and social network analysis](https://academic.oup.com/jamia/article-abstract/27/12/1834/5940446)
+      + In this study, we developed a machine learning model to predict a patient’s response to the Hospital Consumer Assessment of Healthcare Providers and Systems survey’s “Doctor Communications” domain questions while simultaneously identifying most impactful providers in a network.
 
+    - [Intelligent detection of hate speech in Arabic social network: A machine learning approach](https://journals.sagepub.com/doi/abs/10.1177/0165551520917651)
+      + This drew our attention to aspire healthy online environments that are free of hatred and discrimination. Therefore, this article aims to detect cyber hate speech based on Arabic context over Twitter platform, by applying Natural Language Processing (NLP) techniques, and machine learning methods. 
 
-
-
-
-
-
-
+    - [Parallel Computing for Machine Learning in Social Network Analysis](https://ieeexplore.ieee.org/abstract/document/7965209)
+      + This paper discusses the state of each ingredient with a specific focus on: a.) how deep learning can apply to large-scale social network analysis and; b.) the computing resources required to make such analyses feasible.
 
 
 
