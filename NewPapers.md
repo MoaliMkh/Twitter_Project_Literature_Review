@@ -9,6 +9,12 @@
 - [Facial Expression and Computer Vision studies on Twitter](#Facial-Expression-and-Computer-Vision-studies-on-Twitter)
 
 ## People's Personalities and Feelings in Social Network
+
+- [Trends in U.S. Adolescents’ media use, 1976–2016: The rise of digital media, the decline of TV, and the (near) demise of print.](https://psycnet.apa.org/record/2018-41062-001)
+  + Here, we examine generational/time period trends in media use in nationally representative samples of 8th, 10th, and 12th graders in the United States, 1976–2016 (N = 1,021,209; 51% female). Digital media use has increased considerably, with the average 12th grader in 2016 spending more than twice as much time online as in 2006, and with time online, texting, and on social media totaling to about 6 hr a day by 2016.
+ 
+- [Trends in online social networking: adolescent use of MySpace over time](https://journals.sagepub.com/doi/abs/10.1177/1461444809341857)
+  + In this follow-up study, the authors revisited the profiles one year later to examine the extent to which the content had changed. Though exceptions occur, youth are increasingly exercising discretion in posting personal information on MySpace and more youth are limiting access to their profile.
  
 - [Personality and motivations associated with Facebook use](https://www.sciencedirect.com/science/article/abs/pii/S0747563208002355)
   + The present research investigated how the Five-Factor Model of personality relates to Facebook use. Despite some expected trends regarding Extraversion and Openness to Experience, results indicated that personality factors were not as influential as previous literature would suggest.
@@ -27,7 +33,9 @@
  
 - [Emerging Late Adolescent Friendship Networks and Big Five Personality Traits: A Social Network Approach](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-6494.2010.00625.x)
   + The current study focuses on the emergence of friendship networks among just-acquainted individuals, investigating the effects of Big Five personality traits on friendship selection processes.
-
+ 
+- [A systematic review: the influence of social media on depression, anxiety and psychological distress in adolescents](https://www.tandfonline.com/doi/full/10.1080/02673843.2019.1590851)
+  + The current study focuses on the emergence of friendship networks among just-acquainted individuals, investigating the effects of Big Five personality traits on friendship selection processes.
 
 ## AI methods and Social Network
 
