@@ -16,20 +16,17 @@
 
 ## AI methods for Predicting Personality in Social Network
 
-- [Adaptive Personality Recogntion from Text](http://eprints-phd.biblio.unitn.it/828/)
-  + This paper addresses the issue of domain adaptation for automatic Personality Recognition from Text (PRT). The PRT task consists in the classification of the personality traits of some authors, given some pieces of text they wrote.
+
 - [Personality Traits Recognition on Social Network - Facebook](https://ojs.aaai.org/index.php/ICWSM/article/view/14464)
   + This paper presents automatic recognition of Big-5 personality traits on social network (Facebook) using users’ status text.
-- [Personality Prediction of Social Network Users Using Ensemble and XGBoost](https://link.springer.com/chapter/10.1007/978-981-15-2414-1_14)
-  + This work focuses on the effective detection of the personality of social network users, using advanced classifiers such as XGBoost and Ensemble for prediction.
+
 - [Deep learning-based personality recognition from text posts of online social networks](https://link.springer.com/article/10.1007/s10489-018-1212-4)
   + This paper proposes a deep learning-based approach for personality recognition from text posts of online social network users.
 - [Latent Personality Traits Assessment From Social Network Activity Using Contextual Language Embedding](https://ieeexplore.ieee.org/abstract/document/9531972)
   + Explantion: This study examines the potency of emerging natural language processing (NLP) methods in analyzing social network activity. A linguostylistic personality traits assessment (LPTA) system is developed to estimate Twitter users’ personality traits based on their tweets using the Myers-Briggs-type indicator (MBTI) and big-five personality scales.
 - [Social profiling through image understanding: Personality inference using convolutional neural networks](https://www.sciencedirect.com/science/article/abs/pii/S1077314216301679)
   + In this paper, a new level of image understanding with the ultimate goal of relating a set of image preferences to personality traits by using a deep learning framework is explored.
-- [Analysis of the Relationship between the Users Personality Traits and the Images They Post on Social Media](https://www.sciencedirect.com/science/article/pii/S1877050921020561)
-  + In this study, a clustering model for digital traces of users is proposed based on VGG16 deep learning model and a K-means clustering algorithm. It uses this model for predictive analytics of digital footprints in the form of arbitrary images.
+
 - [Recent trends in deep learning based personality detection](https://link.springer.com/article/10.1007/s10462-019-09770-z)
   + In this paper, we review significant machine learning models which have been employed for personality detection, with an emphasis on deep learning-based methods. 
 
