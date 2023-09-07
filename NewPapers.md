@@ -9,18 +9,6 @@
 - [Facial Expression and Computer Vision studies on Twitter](#Facial-Expression-and-Computer-Vision-studies-on-Twitter)
 
 ## People's Personalities and Feelings in Social Network
- 
-
-
-- [Using digital footprints in entrepreneurship research: A Twitter-based personality analysis of superstar entrepreneurs and managers](https://www.sciencedirect.com/science/article/abs/pii/S2352673417300239)
-  + Research indicates that individuals’ digital footprints, for example in Twitter and Facebook, can reveal remarkably valid information about their personality characteristics. In this study, we use digital footprints to gain insights into the personality of superstar entrepreneurs and managers, a largely understudied population in entrepreneurship research. 
-
-- [A tale of two sites: Twitter vs. Facebook and the personality predictors of social media usage](https://www.sciencedirect.com/science/article/abs/pii/S0747563211002457)
-  + This study furthers such investigations by examining the personality correlates (Neuroticism, Extraversion, Openness-to-Experience, Agreeableness, Conscientiousness, Sociability and Need-for-Cognition) of social and informational use of the two largest SNS: Facebook and Twitter. Age and Gender were also examined. 
-
-- [The Use of Twitter Profiles to Assess Personality and Hireability](https://www.jstor.org/stable/45176582)
-  + The authors of this study used 152 active Twitter users, and examined the validity and reliability of rater based personality and hireability assessments that solely use Twitter profiles.
-
 
 
 ## AI methods and Social Network
