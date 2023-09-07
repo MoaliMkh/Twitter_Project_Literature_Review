@@ -227,7 +227,7 @@
     - [Large-scale machine learning at twitter](https://dl.acm.org/doi/abs/10.1145/2213836.2213958)
       + The core of this work lies in recent Pig extensions to provide predictive analytics capabilities that incorporate machine learning, focused specifically on supervised classification. In particular, we have identified stochastic gradient descent techniques for online learning and ensemble methods as being highly amenable to scaling out to large amounts of data.
 
-     - [COVID-Twitter-BERT: A natural language processing model to analyse COVID-19 content on Twitter](https://www.frontiersin.org/articles/10.3389/frai.2023.1023281/full)
+    - [COVID-Twitter-BERT: A natural language processing model to analyse COVID-19 content on Twitter](https://www.frontiersin.org/articles/10.3389/frai.2023.1023281/full)
       + This paper aims to evaluate the performance of CT-BERT on different classification datasets and compare it with BERT-LARGE, its base model.
 
 
@@ -281,3 +281,30 @@
  
 
 - [Facial Expression and Computer Vision studies on Twitter](#Facial-Expression-and-Computer-Vision-studies-on-Twitter)
+
+    
+  
+  - [Categorizing and Inferring the Relationship between the Text and Image of Twitter Posts](https://aclanthology.org/P19-1272/)
+    + This paper studies how the meaning of the entire tweet is composed through the relationship between its textual content and its image. We build and release a data set of image tweets annotated with four classes which express whether the text or the image provides additional information to the other modality. 
+   
+  - [Effects of Co-Creation in a Tourism Destination Brand Image Through Twitter](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747657)
+    + The purpose of this paper is to analyze the effects of co-creation of a tourist brand image projected in Twitter by using NVIVO 11. It takes the case study of the Smart Fuerteventura brand, an ecotourism association made up of a group of local firms.
+   
+  - [Promoting European countries' destination image through Twitter](https://d1wqtxts1xzle7.cloudfront.net/71416792/PROMOTING_EUROPEAN_COUNTRIES_DESTINATIO20211005-5618-10yzc1x.pdf?1633446827=&response-content-disposition=inline%3B+filename%3DPromoting_European_CountriesDestination.pdf&Expires=1693921466&Signature=Ltm719Y3vqQ5zKvcF7647yWwqa0LCXchctHp~LkjNMabhfvlftPhu7YlrkGrtmnXk-YBf1FCh1j0PdS-uxrhn6Ei2Y-LyZP-8uVVgsaS0YsyZRUliqdhydgEFVcZnGgtVN7oHPT9NvQhGL0w7fGw1GwtMMgKZT~BOW9fo7Dza3gLLtqsseORwAekb8eNjDmMTBlwT41KfBoDuIUNvYrXzmj7IuF56WlvXvw3KgErBL7Jxv9YCA04ExkbLTuP7jJXOcVastYWdhG76Y4xV4aldALa54EHJQ9j4Vy6NXITMlVbJS1vZq8RG4cDjPPRLVW-9S2lEfaomZUzM7bYi-742w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+    + This paper records tourism Twitter accounts of 38 Europeans countries and indexes of Twitter performance such as number of followers of each account and indexes of followers’ community involvement.
+   
+  - [Intrinsic vs. Image-Related Utility in Social Media: Why Do People Contribute Content to Twitter?](https://pubsonline.informs.org/doi/abs/10.1287/mksc.2013.0773)
+    + We empirically study the motivations of users to contribute content to social media in the context of the popular microblogging site Twitter. We focus on noncommercial users who do not benefit financially from their contributions.
+   
+  - [Gender and image sharing on Facebook, Twitter, Instagram, Snapchat and WhatsApp in the UK: Hobbying alone or filtering for friends?](https://www.emerald.com/insight/content/doi/10.1108/AJIM-04-2017-0098/full/html)
+    + This paper surveys an age-balanced sample of UK Facebook, Twitter, Instagram, Snapchat and WhatsApp image sharers with a range of exploratory questions about platform use, privacy, interactions, technology use and profile pictures.
+   
+  - [Image Attributes and Diffusion via Twitter: The Case of #guncontrol](https://ieeexplore.ieee.org/abstract/document/7070027/)
+    + We report on a study exploring how Twitter user attributes and the characteristics of the images they share online influence the diffusion of those images. Two-hundred and ninety unique images were collected from Twitter in October 2013 associated with the gun control hash tag [guncontrol].
+     
+  - [Our Twitter Profiles, Our Selves: Predicting Personality with Twitter](https://ieeexplore.ieee.org/abstract/document/6113111)
+    + Since there has not been a study between personality and use of Twitter at large, we set out to analyze the relationship between personality and different types of Twitter users, including popular users and influentials. For 335 users, we gather personality data, analyze it, and find that both popular users and influentials are extroverts and emotionally stable (low in the trait of Neuroticism).
+  - [Personality analysis of the USA public using Twitter profile pictures](https://ieeexplore.ieee.org/abstract/document/8320184)
+    + We have collected the Twitter profile data, last month tweets and stored them in MySQL data base. This collection of data sets is further analyzed with their profile images using features of color, image composition, image type, and their online behavior. We are predicting about their personality traits using their posts and online engagement on Twitter.
+  - [Cross-platform and cross-interaction study of user personality based on images on Twitter and Flickr](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198660)
+    + In this study, we analyzed variation in image content with user personality across three interaction types (posts, likes and profile images) and two platforms, using a unique data set of users who are active on both Twitter and Flickr.
