@@ -15,7 +15,10 @@
  
 - [Trends in online social networking: adolescent use of MySpace over time](https://journals.sagepub.com/doi/abs/10.1177/1461444809341857)
   + In this follow-up study, the authors revisited the profiles one year later to examine the extent to which the content had changed. Though exceptions occur, youth are increasingly exercising discretion in posting personal information on MySpace and more youth are limiting access to their profile.
- 
+
+- [Personality and social network effects on romantic relationships: a dyadic approach](https://journals.sagepub.com/doi/abs/10.1002/per.519)
+  + The quality of romantic relationships and their associations with both partners' personality traits and social networks were studied in 100 younger couples. The similarity of partners was modest with respect to personality traits, and moderate to large with respect to the perceived quality of the partner relationship and their social networks.
+
 - [Personality and motivations associated with Facebook use](https://www.sciencedirect.com/science/article/abs/pii/S0747563208002355)
   + The present research investigated how the Five-Factor Model of personality relates to Facebook use. Despite some expected trends regarding Extraversion and Openness to Experience, results indicated that personality factors were not as influential as previous literature would suggest.
  
@@ -36,6 +39,14 @@
  
 - [A systematic review: the influence of social media on depression, anxiety and psychological distress in adolescents](https://www.tandfonline.com/doi/full/10.1080/02673843.2019.1590851)
   + The current study focuses on the emergence of friendship networks among just-acquainted individuals, investigating the effects of Big Five personality traits on friendship selection processes.
+
+- [Using digital footprints in entrepreneurship research: A Twitter-based personality analysis of superstar entrepreneurs and managers](https://www.sciencedirect.com/science/article/abs/pii/S2352673417300239)
+  + Research indicates that individuals’ digital footprints, for example in Twitter and Facebook, can reveal remarkably valid information about their personality characteristics. In this study, we use digital footprints to gain insights into the personality of superstar entrepreneurs and managers, a largely understudied population in entrepreneurship research. 
+
+- [A tale of two sites: Twitter vs. Facebook and the personality predictors of social media usage](https://www.sciencedirect.com/science/article/abs/pii/S0747563211002457)
+  + This study furthers such investigations by examining the personality correlates (Neuroticism, Extraversion, Openness-to-Experience, Agreeableness, Conscientiousness, Sociability and Need-for-Cognition) of social and informational use of the two largest SNS: Facebook and Twitter. Age and Gender were also examined. 
+
+
 
 ## AI methods and Social Network
 
@@ -91,6 +102,9 @@
 - [A Machine Learning Approach to Twitter User Classification](https://ojs.aaai.org/index.php/ICWSM/article/view/14139)
   + This paper addresses the task of user classification in social media, with an application to Twitter. We automatically infer the values of user attributes such as political orientation or ethnicity by leveraging observable information such as the user behavior, network structure and the linguistic content of the user’s Twitter feed. 
 
+- [Personality Traits Classification on Twitter](https://ieeexplore.ieee.org/abstract/document/8909839/)
+  + This paper presents a personality traits classification system that incorporates language-based features, based on count-based vectorization (TF-IDF) and the GloVe word embedding technique, with an ensemble prediction system consisting of gradient-boosted decision trees and an SVM classifier.
+ 
 - [Large-scale machine learning at twitter](https://dl.acm.org/doi/abs/10.1145/2213836.2213958)
   + The core of this work lies in recent Pig extensions to provide predictive analytics capabilities that incorporate machine learning, focused specifically on supervised classification. In particular, we have identified stochastic gradient descent techniques for online learning and ensemble methods as being highly amenable to scaling out to large amounts of data.
 
@@ -120,7 +134,13 @@
  
 - [Study of Twitter Sentiment Analysis using Machine Learning Algorithms on Python](https://www.researchgate.net/profile/Priyanka-Badhani/publication/317058859_Study_of_Twitter_Sentiment_Analysis_using_Machine_Learning_Algorithms_on_Python/links/60fbebe50c2bfa282af92131/Study-of-Twitter-Sentiment-Analysis-using-Machine-Learning-Algorithms-on-Python.pdf)
   + In this paper, we aim to review some papers regarding research in sentiment analysis on Twitter, describing the methodologies adopted and models applied, along with describing a generalized Python based approach. 
+
+- [Personality classification based on Twitter text using Naive Bayes, KNN and SVM](https://ieeexplore.ieee.org/abstract/document/7436992)
+  + This experiment uses text classification to predict personality based on text written by Twitter users. The languages used are English and Indonesian. Classification methods implemented are Naive Bayes, K-Nearest Neighbors and Support Vector Machine.
  
+- [Personality Traits on Twitter —or— How to Get 1,500 Personality Tests in a Week](https://aclanthology.org/W15-2913.pdf)
+  + In this paper, we explore the use of social media as a resource for large-scale, openvocabulary personality detection. We analyze which features are predictive of which personality traits, and present a novel corpus of 1.2M English tweets annotated with Myers-Briggs personality type and gender.
+    
 
 ## Sentiment Analysis and Personality Prediction on Persian Language and Twitter
 
