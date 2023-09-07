@@ -47,9 +47,20 @@
     - [Personality and social networks in organizations: A review and future directions](https://onlinelibrary.wiley.com/doi/abs/10.1002/job.2004)
       + This review summarizes the major advancements in the three areas of social network research relevant to organizational behavior: (a) brokerage and structural holes; (b) network centrality and network size; and (c) strength of ties.
  
-  + [Multi Platforms](#Multi-Platforms)
+  + [Based On Platform](#Based-On-Platform)
     - [Personality and motivations associated with Facebook use](https://www.sciencedirect.com/science/article/abs/pii/S0747563208002355)
       + The present research investigated how the Five-Factor Model of personality relates to Facebook use. Despite some expected trends regarding Extraversion and Openness to Experience, results indicated that personality factors were not as influential as previous literature would suggest.
+     
+    - [Using digital footprints in entrepreneurship research: A Twitter-based personality analysis of superstar entrepreneurs and managers](https://www.sciencedirect.com/science/article/abs/pii/S2352673417300239)
+      + Research indicates that individuals’ digital footprints, for example in Twitter and Facebook, can reveal remarkably valid information about their personality characteristics. In this study, we use digital footprints to gain insights into the personality of superstar entrepreneurs and managers, a largely understudied population in entrepreneurship research. 
+
+    - [A tale of two sites: Twitter vs. Facebook and the personality predictors of social media usage](https://www.sciencedirect.com/science/article/abs/pii/S0747563211002457)
+      + This study furthers such investigations by examining the personality correlates (Neuroticism, Extraversion, Openness-to-Experience, Agreeableness, Conscientiousness, Sociability and Need-for-Cognition) of social and informational use of the two largest SNS: Facebook and Twitter. Age and Gender were also examined. 
+
+    - [The Use of Twitter Profiles to Assess Personality and Hireability](https://www.jstor.org/stable/45176582)
+      + The authors of this study used 152 active Twitter users, and examined the validity and reliability of rater based personality and hireability assessments that solely use Twitter profiles.
+
+
 
 - [AI methods Vs Social Network](#AI-methods-and-Social-Network)
 - [Sentiment Analysis and Personality Prediction on Twitter](#Sentiment-Analysis-and-Personality-Prediction-on-Twitter)
