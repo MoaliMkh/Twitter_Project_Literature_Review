@@ -17,47 +17,9 @@
 
 ## Sentiment Analysis and Personality Prediction on Twitter
 
-- [A Machine Learning Approach to Twitter User Classification](https://ojs.aaai.org/index.php/ICWSM/article/view/14139)
-  + This paper addresses the task of user classification in social media, with an application to Twitter. We automatically infer the values of user attributes such as political orientation or ethnicity by leveraging observable information such as the user behavior, network structure and the linguistic content of the user’s Twitter feed. 
 
-- [Personality Traits Classification on Twitter](https://ieeexplore.ieee.org/abstract/document/8909839/)
-  + This paper presents a personality traits classification system that incorporates language-based features, based on count-based vectorization (TF-IDF) and the GloVe word embedding technique, with an ensemble prediction system consisting of gradient-boosted decision trees and an SVM classifier.
- 
-- [Large-scale machine learning at twitter](https://dl.acm.org/doi/abs/10.1145/2213836.2213958)
-  + The core of this work lies in recent Pig extensions to provide predictive analytics capabilities that incorporate machine learning, focused specifically on supervised classification. In particular, we have identified stochastic gradient descent techniques for online learning and ensemble methods as being highly amenable to scaling out to large amounts of data.
 
-- [Sentiment analysis in twitter using machine learning techniques](https://ieeexplore.ieee.org/abstract/document/6726818)
-  + In this paper, we try to analyze the twitter posts about electronic products like mobiles, laptops etc using Machine Learning approach. By doing sentiment analysis in a specific domain, it is possible to identify the effect of domain information in sentiment classification.
 
-- [Machine learning techniques for hate speech classification of twitter data: State-of-the-art, future challenges and research directions](https://www.sciencedirect.com/science/article/abs/pii/S1574013720304111)
-  + This study presented collection of hate speech benchmarks datasets suitable for testing the efficiency of classification models. This study also presented the pros and cons for single and hybrid machine learning methods in hate speech classification.
-
-- [Sarcasm detection using machine learning algorithms in Twitter: A systematic review](https://journals.sagepub.com/doi/full/10.1177/1470785320921779)
-  + The review results revealed that Support Vector Machine (SVM) was the best and the most commonly used AMLA for sarcasm detection in Twitter. In addition, combining Convolutional Neural Network (CNN) and SVM was found to offer a high prediction accuracy.
-
-- [Twitter Discussions and Emotions About the COVID-19 Pandemic: Machine Learning Approach](https://www.jmir.org/2020/11/e20550/)
-  + The objective of this study is to examine COVID-19–related discussions, concerns, and sentiments using tweets posted by Twitter users. We analyzed 4 million Twitter messages related to the COVID-19 pandemic using a list of 20 hashtags (eg, “coronavirus,” “COVID-19,” “quarantine”) from March 7 to April 21, 2020. We used a machine learning approach, Latent Dirichlet Allocation (LDA), to identify popular unigrams and bigrams, salient topics and themes, and sentiments in the collected tweets.
-
-- [Machine Learning-Based Sentiment Analysis for Twitter Accounts](https://www.mdpi.com/2297-8747/23/1/11)
-  + The contribution of this paper includes the adoption of a hybrid approach that involves a sentiment analyzer that includes machine learning. Moreover, this paper also provides a comparison of techniques of sentiment analysis in the analysis of political views by applying supervised machine-learning algorithms such as Naïve Bayes and support vector machines (SVM).
-
-- [A machine learning approach for Twitter spammers detection](https://ieeexplore.ieee.org/abstract/document/6987029/)
-  + The paper proposes an inductive-learning method for the detection of Twitter-spammers, and applies a Random-Forest approach to a limited set of features that are extracted from traffic.
- 
-- [Sentiment analysis of twitter data using machine learning approaches and semantic analysis](https://ieeexplore.ieee.org/abstract/document/6897213)
-  + This paper contributes to the sentiment analysis for customers' review classification which is helpful to analyze the information in the form of the number of tweets where opinions are highly unstructured and are either positive or negative, or somewhere in between of these two. For this we first pre-processed the dataset, after that extracted the adjective from the dataset that have some meaning which is called feature vector, then selected the feature vector list and thereafter applied machine learning based classification algorithms namely: Naive Bayes, Maximum entropy and SVM along with the Semantic Orientation based WordNet which extracts synonyms and similarity for the content feature.
-
-- [Twitter Sentiment Analysis: Lexicon Method, Machine Learning Method and Their Combination](https://arxiv.org/abs/1507.00955)
-  + We present a comparative study of different lexicon combinations and show that enhancing sentiment lexicons with emoticons, abbreviations and social-media slang expressions increases the accuracy of lexicon-based classification for Twitter. We discuss the importance of feature generation and feature selection processes for machine learning sentiment classification.
- 
-- [Study of Twitter Sentiment Analysis using Machine Learning Algorithms on Python](https://www.researchgate.net/profile/Priyanka-Badhani/publication/317058859_Study_of_Twitter_Sentiment_Analysis_using_Machine_Learning_Algorithms_on_Python/links/60fbebe50c2bfa282af92131/Study-of-Twitter-Sentiment-Analysis-using-Machine-Learning-Algorithms-on-Python.pdf)
-  + In this paper, we aim to review some papers regarding research in sentiment analysis on Twitter, describing the methodologies adopted and models applied, along with describing a generalized Python based approach. 
-
-- [Personality classification based on Twitter text using Naive Bayes, KNN and SVM](https://ieeexplore.ieee.org/abstract/document/7436992)
-  + This experiment uses text classification to predict personality based on text written by Twitter users. The languages used are English and Indonesian. Classification methods implemented are Naive Bayes, K-Nearest Neighbors and Support Vector Machine.
- 
-- [Personality Traits on Twitter —or— How to Get 1,500 Personality Tests in a Week](https://aclanthology.org/W15-2913.pdf)
-  + In this paper, we explore the use of social media as a resource for large-scale, openvocabulary personality detection. We analyze which features are predictive of which personality traits, and present a novel corpus of 1.2M English tweets annotated with Myers-Briggs personality type and gender.
     
 
 ## Sentiment Analysis and Personality Prediction on Persian Language and Twitter
