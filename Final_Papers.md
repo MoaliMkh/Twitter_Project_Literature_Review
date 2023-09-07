@@ -185,12 +185,12 @@
       + We experiment on using multiple Bidirectional Encoder Representations from Transformer (BERT) models for extracting contextual word embeddings from tweets data to see the best model. We also address the imbalanced dataset problem with Multilabel Synthetic Minority Oversampling Technique (MLSMOTE).
 
 
-    - [Towards Classification of Personality Prediction Model: A Combination of BERT Word Embedding and MLSMOTE](https://ieeexplore.ieee.org/abstract/document/9609750)
-      + We experiment on using multiple Bidirectional Encoder Representations from Transformer (BERT) models for extracting contextual word embeddings from tweets data to see the best model. We also address the imbalanced dataset problem with Multilabel Synthetic Minority Oversampling Technique (MLSMOTE).
+    - [Naïve Bayes-Support Vector Machine Combined BERT to Classified Big Five Personality on Twitter](https://www.jurnal.iaii.or.id/index.php/RESTI/article/view/4378)
+      + This study will make five personality predictions using the Naïve Bayes method – Support Vector Machine, Synthetic Minority Over Sampling Technique (SMOTE), Linguistic Inquiry Word Count (LIWC), and Bidirectional Encoder from Transformers Representations (BERT).
      
 
-    - [Towards Classification of Personality Prediction Model: A Combination of BERT Word Embedding and MLSMOTE](https://ieeexplore.ieee.org/abstract/document/9609750)
-      + We experiment on using multiple Bidirectional Encoder Representations from Transformer (BERT) models for extracting contextual word embeddings from tweets data to see the best model. We also address the imbalanced dataset problem with Multilabel Synthetic Minority Oversampling Technique (MLSMOTE).
+    - [A Three-Order Ensemble Model for User-level Big Five Personality Prediction on Twitter Dataset](https://ijisae.org/index.php/IJISAE/article/view/2630)
+      + in this study, an experiment was conducted to predict user personality based on the Big Five Personality Traits, especially in Indonesia. Previous research on personality prediction using BERT has provided promising results. However, BERT has drawbacks because it is limited in processing many words. To process information better it requires prediction of personality at the user-level by using all the user's information.  Based on this, this research focuses on conducting experiments by proposing the Three Order Ensemble method with the BERT workflow (TOEM-BERT) as a scheme for combining tweets so that tweet data can be used optimally.
 
 
 
@@ -211,11 +211,8 @@
     - [Large-scale machine learning at twitter](https://dl.acm.org/doi/abs/10.1145/2213836.2213958)
       + The core of this work lies in recent Pig extensions to provide predictive analytics capabilities that incorporate machine learning, focused specifically on supervised classification. In particular, we have identified stochastic gradient descent techniques for online learning and ensemble methods as being highly amenable to scaling out to large amounts of data.
 
-
-
-
-
-
+     - [COVID-Twitter-BERT: A natural language processing model to analyse COVID-19 content on Twitter](https://www.frontiersin.org/articles/10.3389/frai.2023.1023281/full)
+      + This paper aims to evaluate the performance of CT-BERT on different classification datasets and compare it with BERT-LARGE, its base model.
 
 
 
