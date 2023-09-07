@@ -46,6 +46,9 @@
 - [A tale of two sites: Twitter vs. Facebook and the personality predictors of social media usage](https://www.sciencedirect.com/science/article/abs/pii/S0747563211002457)
   + This study furthers such investigations by examining the personality correlates (Neuroticism, Extraversion, Openness-to-Experience, Agreeableness, Conscientiousness, Sociability and Need-for-Cognition) of social and informational use of the two largest SNS: Facebook and Twitter. Age and Gender were also examined. 
 
+- [The Use of Twitter Profiles to Assess Personality and Hireability](https://www.jstor.org/stable/45176582)
+  + The authors of this study used 152 active Twitter users, and examined the validity and reliability of rater based personality and hireability assessments that solely use Twitter profiles.
+
 
 
 ## AI methods and Social Network
@@ -94,6 +97,9 @@
  
 - [Intelligent detection of hate speech in Arabic social network: A machine learning approach](https://journals.sagepub.com/doi/abs/10.1177/0165551520917651)
   + This drew our attention to aspire healthy online environments that are free of hatred and discrimination. Therefore, this article aims to detect cyber hate speech based on Arabic context over Twitter platform, by applying Natural Language Processing (NLP) techniques, and machine learning methods. 
+
+- [Personality Classification from Online Text using Machine Learning Approach](https://www.researchgate.net/profile/Mohd-Zubair-3/publication/340399695_Personality_Classification_from_Online_Text_using_Machine_Learning_Approach/links/5f02da07a6fdcc4ca44e98b3/Personality-Classification-from-Online-Text-using-Machine-Learning-Approach.pdf)
+  + In this proposed work, Machine Learning Technique, XGBoost classifier is used to predict four personality traits based on Myers- Briggs Type Indicator (MBTI) model, namely Introversion-Extroversion(I-E), iNtuitionSensing(N-S), Feeling-Thinking(F-T) and Judging-Perceiving(J-P) from input text. 
 
 
 
