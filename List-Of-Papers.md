@@ -11,25 +11,7 @@
 ## People's Personalities and Feelings in Social Network
 
 
-
-
-
 ## AI methods for Predicting Personality in Social Network
-
-
-- [Personality Traits Recognition on Social Network - Facebook](https://ojs.aaai.org/index.php/ICWSM/article/view/14464)
-  + This paper presents automatic recognition of Big-5 personality traits on social network (Facebook) using users’ status text.
-
-- [Deep learning-based personality recognition from text posts of online social networks](https://link.springer.com/article/10.1007/s10489-018-1212-4)
-  + This paper proposes a deep learning-based approach for personality recognition from text posts of online social network users.
-- [Latent Personality Traits Assessment From Social Network Activity Using Contextual Language Embedding](https://ieeexplore.ieee.org/abstract/document/9531972)
-  + Explantion: This study examines the potency of emerging natural language processing (NLP) methods in analyzing social network activity. A linguostylistic personality traits assessment (LPTA) system is developed to estimate Twitter users’ personality traits based on their tweets using the Myers-Briggs-type indicator (MBTI) and big-five personality scales.
-- [Social profiling through image understanding: Personality inference using convolutional neural networks](https://www.sciencedirect.com/science/article/abs/pii/S1077314216301679)
-  + In this paper, a new level of image understanding with the ultimate goal of relating a set of image preferences to personality traits by using a deep learning framework is explored.
-
-- [Recent trends in deep learning based personality detection](https://link.springer.com/article/10.1007/s10462-019-09770-z)
-  + In this paper, we review significant machine learning models which have been employed for personality detection, with an emphasis on deep learning-based methods. 
-
 
 
 ## Sentiment Analysis and Personality Prediction on Twitter
