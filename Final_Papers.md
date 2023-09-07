@@ -65,22 +65,40 @@
 - [AI methods Vs Social Network](#AI-methods-and-Social-Network)
 
   + [Classic Machine Learning](#Classic-Machine-Learning)
-    - [Trends in U.S. Adolescents’ media use, 1976–2016: The rise of digital media, the decline of TV, and the (near) demise of print.](https://psycnet.apa.org/record/2018-41062-001)
-      + Here, we examine generational/time period trends in media use in nationally representative samples of 8th, 10th, and 12th graders in the United States, 1976–2016 (N = 1,021,209; 51% female). Digital media use has increased considerably, with the average 12th grader in 2016 spending more than twice as much time online as in 2006, and with time online, texting, and on social media totaling to about 6 hr a day by 2016.
-     
+    - [Personality Classification from Online Text using Machine Learning Approach](https://www.researchgate.net/profile/Mohd-Zubair-3/publication/340399695_Personality_Classification_from_Online_Text_using_Machine_Learning_Approach/links/5f02da07a6fdcc4ca44e98b3/Personality-Classification-from-Online-Text-using-Machine-Learning-Approach.pdf)
+      + In this proposed work, Machine Learning Technique, XGBoost classifier is used to predict four personality traits based on Myers- Briggs Type Indicator (MBTI) model, namely Introversion-Extroversion(I-E), iNtuitionSensing(N-S), Feeling-Thinking(F-T) and Judging-Perceiving(J-P) from input text.
+    - [Adaptive Personality Recogntion from Text](http://eprints-phd.biblio.unitn.it/828/)
+      + This paper addresses the issue of domain adaptation for automatic Personality Recognition from Text (PRT). The PRT task consists in the classification of the personality traits of some authors, given some pieces of text they wrote.
+    - [Analysis of the Relationship between the Users Personality Traits and the Images They Post on Social Media](https://www.sciencedirect.com/science/article/pii/S1877050921020561)
+      + In this study, a clustering model for digital traces of users is proposed based on VGG16 deep learning model and a K-means clustering algorithm. It uses this model for predictive analytics of digital footprints in the form of arbitrary images.
+    - [Personality Prediction of Social Network Users Using Ensemble and XGBoost](https://link.springer.com/chapter/10.1007/978-981-15-2414-1_14)
+      + This work focuses on the effective detection of the personality of social network users, using advanced classifiers such as XGBoost and Ensemble for prediction.
+
 
 
   + [Deep Learning](#Deep-Learning)
-    - [Trends in U.S. Adolescents’ media use, 1976–2016: The rise of digital media, the decline of TV, and the (near) demise of print.](https://psycnet.apa.org/record/2018-41062-001)
-      + Here, we examine generational/time period trends in media use in nationally representative samples of 8th, 10th, and 12th graders in the United States, 1976–2016 (N = 1,021,209; 51% female). Digital media use has increased considerably, with the average 12th grader in 2016 spending more than twice as much time online as in 2006, and with time online, texting, and on social media totaling to about 6 hr a day by 2016.
+    - [Social network analysis using deep learning: applications and schemes](https://link.springer.com/article/10.1007/s13278-021-00799-z)
+      + In this paper, we provide an overview of state-of-the-art research for different applications of social network analysis using deep learning techniques. We consider applications such as opinion analysis, sentiment analysis, text classification, recommender systems, structural analysis, anomaly detection, and fake news detection.
+    - [A Fast Recognition Algorithm of Online Social Network Images Based on Deep Learning](https://web.p.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=07650019&AN=141469465&h=zjCtzHiUvxX2NAELCmkIMcUDU2vwv%2fwTjcHqAUJS%2fiSYpNi7YKJxdQWYQE%2ffl7HXbrQmkpDzcG5Mx8pqUB%2bPNw%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d07650019%26AN%3d141469465)
+      + In the proposed method, the image classification is enhanced by improving the self-adaptive learning rate based on incremental discrimination of reconstruction error and the weight update criteria with increasing momentum.
+     
 
   + [Depression Detection](#Depression-Detection)
-    - [Trends in U.S. Adolescents’ media use, 1976–2016: The rise of digital media, the decline of TV, and the (near) demise of print.](https://psycnet.apa.org/record/2018-41062-001)
-      + Here, we examine generational/time period trends in media use in nationally representative samples of 8th, 10th, and 12th graders in the United States, 1976–2016 (N = 1,021,209; 51% female). Digital media use has increased considerably, with the average 12th grader in 2016 spending more than twice as much time online as in 2006, and with time online, texting, and on social media totaling to about 6 hr a day by 2016.
+    - [Early Depression Detection from Social Network Using Deep Learning Techniques](https://ieeexplore.ieee.org/abstract/document/9231008)
+      + In this research work, a hybrid model has been proposed that can detect depression by analyzing user's textual posts. Deep learning algorithms were trained using the training data and then performance has been evaluated on the test data of the dataset of reddit which was published for the pilot piece of work, Early Detection of Depression in CLEF eRisk 2017.
+    
+    - [Depression detection from social network data using machine learning techniques](https://link.springer.com/article/10.1007/s13755-018-0046-0)
+      + In this study, we aim to perform depression analysis on Facebook data collected from an online public source. To investigate the effect of depression detection, we propose machine learning technique as an efficient and scalable method.
 
   + [Other Deep Learning Works on Social Media Besides Personality Detection](#Other-Deep-Learning-Works-on-Social-Media-Besides-Personality-Detection)
-    - [Trends in U.S. Adolescents’ media use, 1976–2016: The rise of digital media, the decline of TV, and the (near) demise of print.](https://psycnet.apa.org/record/2018-41062-001)
-      + Here, we examine generational/time period trends in media use in nationally representative samples of 8th, 10th, and 12th graders in the United States, 1976–2016 (N = 1,021,209; 51% female). Digital media use has increased considerably, with the average 12th grader in 2016 spending more than twice as much time online as in 2006, and with time online, texting, and on social media totaling to about 6 hr a day by 2016.
+    - [Age Groups Classification in Social Network Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/7932459)
+      + This research suggests that one of the most relevant parameter contained in the user profile is the age group, showing that there are typical behaviors among users of the same age group, specifically, when these users write about the same topic. A detailed analysis with 7000 sentences was performed to determine which characteristics are relevant, such as, the use of punctuation, number of characters, media sharing, topics, among others; and which ones can be disregarded for the age groups classification
+ 
+    - [Online Social Network Security: A Comparative Review Using Machine Learning and Deep Learning](https://link.springer.com/article/10.1007/s11063-020-10416-3)
+      + This paper comprehensively surveys the evolution of the online social networks, their associated risks and solutions. The various security models and the state of the art algorithms have been discussed along with a comparative meta-analysis using machine learning, deep learning, and statistical testing to recommend a better solution.
+ 
+    - [Using deep learning and social network analysis to understand and manage extreme flooding](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-5973.12311)
+      + This paper uses a subset of machine learning, deep learning (DL), to classify text content of 11,982 tweets, and we integrate that with SNA to understand the structure of tweet interactions. Our DL approach pre-trains our model with a DL language technique, BERT, and then trains the model using the standard training dataset to sort a dataset of tweets into classes tailored to crisis events.
 
 
 
