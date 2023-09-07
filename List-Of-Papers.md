@@ -10,16 +10,8 @@
 
 ## People's Personalities and Feelings in Social Network
 
-- [An Introduction to Social Network Analysis for Personality and Social Psychologists](https://journals.sagepub.com/doi/abs/10.1177/1948550617709114)
-  + This paper discusses Social network analysis (SNA). SNA is a methodology for studying the connections and behavior of individuals within social groups.
-- [Friends don't lie: inferring personality traits from social network structure](https://dl.acm.org/doi/abs/10.1145/2370216.2370266)
-  + This article investigates the relationships between social network structure and personality; it assesses the performances of different subsets of structural network features, and in particular those concerned with ego-networks, in predicting the Big-5 personality traits. In addition to traditional survey-based data, this work focuses on social networks derived from real-life data gathered through smartphones.
-- [Systematical Approach for Detecting the Intention and Intensity of Feelings on Social Network](https://ieeexplore.ieee.org/abstract/document/7421935)
-  + In this paper, a Feeling Distinguisher system is built based on supervised Latent Dirichlet Allocation (sLDA), Latent Dirichlet Allocation, and SentiWordNet methodologies for detecting a person's intention and intensity of feelings through the analysis of his/her online posts.
-- [Personality and Social Network Involvement as Predictors of Helping Behavior in Everyday Life](https://www.jstor.org/stable/2786867)
-  + In one of the studies discuessed in this paper, it is stated that characteristics of individuals, in general, are related more strongly to planned forms of helping than to spontaneous forms of helping. Social network variables also are found to be better predictors of self-reported helping behavior than are traditional personality variables.
-- [Personality and social networks in organizations: A review and future directions](https://onlinelibrary.wiley.com/doi/abs/10.1002/job.2004)
-  + This review summarizes the major advancements in the three areas of social network research relevant to organizational behavior: (a) brokerage and structural holes; (b) network centrality and network size; and (c) strength of ties.
+
+
 
 
 ## AI methods for Predicting Personality in Social Network
