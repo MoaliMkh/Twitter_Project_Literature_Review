@@ -63,6 +63,42 @@
 
 
 - [AI methods Vs Social Network](#AI-methods-and-Social-Network)
+
+  + [Classic Machine Learning](#Classic-Machine-Learning)
+    - [Trends in U.S. Adolescents’ media use, 1976–2016: The rise of digital media, the decline of TV, and the (near) demise of print.](https://psycnet.apa.org/record/2018-41062-001)
+      + Here, we examine generational/time period trends in media use in nationally representative samples of 8th, 10th, and 12th graders in the United States, 1976–2016 (N = 1,021,209; 51% female). Digital media use has increased considerably, with the average 12th grader in 2016 spending more than twice as much time online as in 2006, and with time online, texting, and on social media totaling to about 6 hr a day by 2016.
+     
+
+
+  + [Deep Learning](#Deep-Learning)
+    - [Trends in U.S. Adolescents’ media use, 1976–2016: The rise of digital media, the decline of TV, and the (near) demise of print.](https://psycnet.apa.org/record/2018-41062-001)
+      + Here, we examine generational/time period trends in media use in nationally representative samples of 8th, 10th, and 12th graders in the United States, 1976–2016 (N = 1,021,209; 51% female). Digital media use has increased considerably, with the average 12th grader in 2016 spending more than twice as much time online as in 2006, and with time online, texting, and on social media totaling to about 6 hr a day by 2016.
+
+  + [Depression Detection](#Depression-Detection)
+    - [Trends in U.S. Adolescents’ media use, 1976–2016: The rise of digital media, the decline of TV, and the (near) demise of print.](https://psycnet.apa.org/record/2018-41062-001)
+      + Here, we examine generational/time period trends in media use in nationally representative samples of 8th, 10th, and 12th graders in the United States, 1976–2016 (N = 1,021,209; 51% female). Digital media use has increased considerably, with the average 12th grader in 2016 spending more than twice as much time online as in 2006, and with time online, texting, and on social media totaling to about 6 hr a day by 2016.
+
+  + [Other Deep Learning Works on Social Media Besides Personality Detection](#Other-Deep-Learning-Works-on-Social-Media-Besides-Personality-Detection)
+    - [Trends in U.S. Adolescents’ media use, 1976–2016: The rise of digital media, the decline of TV, and the (near) demise of print.](https://psycnet.apa.org/record/2018-41062-001)
+      + Here, we examine generational/time period trends in media use in nationally representative samples of 8th, 10th, and 12th graders in the United States, 1976–2016 (N = 1,021,209; 51% female). Digital media use has increased considerably, with the average 12th grader in 2016 spending more than twice as much time online as in 2006, and with time online, texting, and on social media totaling to about 6 hr a day by 2016.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - [Sentiment Analysis and Personality Prediction on Twitter](#Sentiment-Analysis-and-Personality-Prediction-on-Twitter)
 - [Sentiment Analysis and Personality Prediction on Persian Language and Twitter](#Sentiment-Analysis-and-Personality-Prediction-on-Persian-Language-and-Twitter)
 - [Facial Expression and Computer Vision studies on Twitter](#Facial-Expression-and-Computer-Vision-studies-on-Twitter)
