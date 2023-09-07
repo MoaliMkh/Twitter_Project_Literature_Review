@@ -27,6 +27,15 @@
       + In this paper we explore how individual personality characteristics influence online social networking behavior.
 
   + [Different Aspects of Personality](#Different-Aspects-of-Personality)
+
+
+    - [You are what you tweet: Personality expression and perception on Twitter](https://www.sciencedirect.com/science/article/abs/pii/S009265661200133X)
+      + In this study, we measured the Big Five personality traits of 142 participants and collected their tweets over a 1-month period. Extraversion, agreeableness, openness, and neuroticism were associated with specific linguistic markers, suggesting that personality manifests in microblogs.
+     
+
+    - [Mining User Personality in Twitter](https://www.researchgate.net/profile/Fabio-Celli/publication/268433988_Mining_User_Personality_in_Twitter/links/551933a90cf273292e70d840/Mining-User-Personality-in-Twitter.pdf)
+      + The paper describes how we collected and annotated “Personalitwit”, a corpus of 25700 posts from the popular micro-blogging site Twitter, automatically annotated by user personality and by language with two computational linguistic tools. From the analysis of that data emerged how different writng styles and personality models are associated to different communitites using different devices to post to Twitter.
+
     - [Personality and social network effects on romantic relationships: a dyadic approach](https://journals.sagepub.com/doi/abs/10.1002/per.519)
       + The quality of romantic relationships and their associations with both partners' personality traits and social networks were studied in 100 younger couples. The similarity of partners was modest with respect to personality traits, and moderate to large with respect to the perceived quality of the partner relationship and their social networks.
     - [Leadership as an emergent group process: A social network study of personality and leadership](https://journals.sagepub.com/doi/abs/10.1177/1368430212461835)
@@ -167,7 +176,14 @@
 
 
   + [Advanced Personality Prediction](#Advanced-Personality-Prediction)
+ 
 
+    - [Artificial Intelligence Model for the Identification of the Personality of Twitter Users through the Analysis of Their Behavior in the Social Network](https://www.mdpi.com/2079-9292/11/22/3811)
+      + In this work, the development of a data analysis model with machine learning algorithms with the ability to predict the personality of a user based on their activity on Twitter is proposed. To do this, a data collection and transformation process is carried out to be analyzed with sentiment analysis techniques and the linguistic analysis of tweets
+
+    - [Predicting Personality from Twitter](https://ieeexplore.ieee.org/abstract/document/6113107)
+      + In this paper, a method is presented by which a user's personality can be accurately predicted through the publicly available information on their Twitter profile.
+ 
     - [Transformer based Deep Intelligent Contextual Embedding for Twitter sentiment analysis](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2030306X)
       + In this paper, we present a transformer-based method for sentiment analysis that encodes representation from a transformer and applies deep intelligent contextual embedding to enhance the quality of tweets by removing noise while taking word sentiments, polysemy, syntax, and semantic knowledge into account.
 
