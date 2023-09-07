@@ -136,6 +136,10 @@
 
 - [Sentiment Analysis and Personality Prediction on Twitter](#Sentiment-Analysis-and-Personality-Prediction-on-Twitter)
   + [Initial Personality Prediction](#Initial-Personality-Prediction)
+ 
+    - [A Machine Learning Approach to Twitter User Classification](https://ojs.aaai.org/index.php/ICWSM/article/view/14139)
+      + This paper addresses the task of user classification in social media, with an application to Twitter. We automatically infer the values of user attributes such as political orientation or ethnicity by leveraging observable information such as the user behavior, network structure and the linguistic content of the user’s Twitter feed. 
+
     - [Personality Traits Classification on Twitter](https://ieeexplore.ieee.org/abstract/document/8909839/)
       + This paper presents a personality traits classification system that incorporates language-based features, based on count-based vectorization (TF-IDF) and the GloVe word embedding technique, with an ensemble prediction system consisting of gradient-boosted decision trees and an SVM classifier.
 
@@ -181,6 +185,13 @@
       + We experiment on using multiple Bidirectional Encoder Representations from Transformer (BERT) models for extracting contextual word embeddings from tweets data to see the best model. We also address the imbalanced dataset problem with Multilabel Synthetic Minority Oversampling Technique (MLSMOTE).
 
 
+    - [Towards Classification of Personality Prediction Model: A Combination of BERT Word Embedding and MLSMOTE](https://ieeexplore.ieee.org/abstract/document/9609750)
+      + We experiment on using multiple Bidirectional Encoder Representations from Transformer (BERT) models for extracting contextual word embeddings from tweets data to see the best model. We also address the imbalanced dataset problem with Multilabel Synthetic Minority Oversampling Technique (MLSMOTE).
+     
+
+    - [Towards Classification of Personality Prediction Model: A Combination of BERT Word Embedding and MLSMOTE](https://ieeexplore.ieee.org/abstract/document/9609750)
+      + We experiment on using multiple Bidirectional Encoder Representations from Transformer (BERT) models for extracting contextual word embeddings from tweets data to see the best model. We also address the imbalanced dataset problem with Multilabel Synthetic Minority Oversampling Technique (MLSMOTE).
+
 
 
   + [Different Sentiment Tasks Contucted on Twitter](#Different-Sentiment-Tasks-Contucted-on-Twitter)
@@ -199,12 +210,6 @@
   
     - [Large-scale machine learning at twitter](https://dl.acm.org/doi/abs/10.1145/2213836.2213958)
       + The core of this work lies in recent Pig extensions to provide predictive analytics capabilities that incorporate machine learning, focused specifically on supervised classification. In particular, we have identified stochastic gradient descent techniques for online learning and ensemble methods as being highly amenable to scaling out to large amounts of data.
-
-
-
-
-
-  + [Personality Prediction](#Personality-Prediction)
 
 
 
