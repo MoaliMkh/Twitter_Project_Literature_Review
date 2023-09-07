@@ -233,4 +233,51 @@
 
 
 - [Sentiment Analysis and Personality Prediction on Persian Language and Twitter](#Sentiment-Analysis-and-Personality-Prediction-on-Persian-Language-and-Twitter)
+  + [Personality Prediction on Persian Twitter](#Personality-Prediction-on-Persian-Twitter)
+ 
+    - [MBTI Personality Prediction Approach on Persian Twitter](https://www.winlp.org/wp-content/uploads/2022/11/28_Paper.pdf)
+      + In this paper, since there is no substantial study on Persian speakers’ personality detection, an efficient and high performance personality detection system in the Persian language is presented.
+    - [Adaptation of Sentiment Analysis Techniques to Persian Language](https://link.springer.com/chapter/10.1007/978-3-319-77116-8_10)
+      + Sentiment analysis research has been growing rapidly; however, most of the research papers are focused on English. In this paper, we review English-based sentiment analysis approaches and discuss what adaption these approaches require to become applicable to the Persian language.
+    - [A transformer-based deep learning model for Persian moral sentiment analysis](https://journals.sagepub.com/doi/abs/10.1177/01655515231188344)
+      + We developed a Twitter data set of 8000 tweets that are manually annotated for moral foundations and also we established a baseline for computing moral sentiment from Persian text. We evaluate a plethora of state-of-the-art machine learning models, both rule-based and neural, including distributed dictionary representation (DDR), long short-term memory (LSTM) and bidirectional encoder representations from transformer (BERT) to address the issue of Moral Foundation theory (MFT).
+
+    - [Belief Mining in Persian Texts Based on Deep Learning and Users' Opinions (revised December 2022)](https://ieeexplore.ieee.org/abstract/document/10158496)
+      +  In this method, first, the data is preprocessed with a deep neural network and then classified into political, cultural, economic, and sports classes, and the sentimental polarity is obtained. SentiPers is applied on four different datasets from Persian Twitter, Digikala store, Google translator, and synonym for evaluation.
+     
+    - [The application of Deep Learning in Persian Documents Sentiment Analysis](https://ijism.ricest.ac.ir/article_698303.html)
+      + In this work, the authors proposed a hybrid method by a combination of structural correspondence learning (SCL) and convolutional neural network (CNN). The SCL method selects the most effective pivot features so the adaptation from one domain to similar ones cannot drop the efficiency drastically.
+     
+    
+    - [Deep Learning-based Sentiment Analysis in Persian Language](https://ieeexplore.ieee.org/abstract/document/9443152)
+      + In this research, a hybrid deep learning-based sentiment analysis model proposed and implemented on customer reviews data of Digikala Online Retailer website. We already applied the classifier based on various deep learning networks and regularization techniques.
+     
+    - [Early Discovery of Emerging Entities in Persian Twitter with Semantic Similarity](https://ieeexplore.ieee.org/abstract/document/10139028)
+      + This paper proposes EEPT that is an online clustering method able to discover EEs without any need for training on a dataset. Additionally, due to the lack of a proper evaluation metric, this paper uses a new metric to evaluate the results.
+
+  + [Other Purposes of Persian Twitter Text Analysis](#Other-Purposes-of-Persian-Twitter-Text-Analysis)
+
+    - [Mapping the political landscape of Persian Twitter: The case of 2013 presidential election](https://journals.sagepub.com/doi/full/10.1177/2053951719835232)
+      + This paper aims to present such cartography of the political landscape of Persian Twitter by studying the case of Iran's 2013 presidential election. The objective of this study is twofold: first, to fill the empirical gap in our knowledge about Twitter use in Iran, and second, to develop computational methods for studying Persian Twitter (e.g., effective methods for analyzing Persian text) and identify the best methods for addressing different issues (e.g., topic detection and sentiment analysis).
+     
+    - [A predictive model based on machine learning methods to recognize fake Persian news on twitter](https://journals.semnan.ac.ir/article_4563.html)
+      + The present study has attempted to use machine learning algorithms including SVM, k-NN, decision tree, random forest and MLP, to identify and classify fake and real news in the data set collected from Persian Twitter messenger.
+     
+    - [Persian Rumor Detection on Twitter](https://ieeexplore.ieee.org/abstract/document/8661007)
+      + Sometimes rumors get around between users, such that they may make some mistakes about what are exactly happened. If rumors has been recognized at the right time, their negative effects can be bounded. In order to differentiate between rumors and non-rumors tweets, various well-known machine learning methods are applied on KNTUPT dataset which is collected all persian tweets from November 24th, 2017 to December 8th, 2017.
+     
+    - [The Use of LSTM Neural Network to Detect Fake News on Persian Twitter](https://www.turcomat.org/index.php/turkbilmat/article/view/7079)
+      + In this study, a hybrid model of long short term memory (LSTM) and 14-layer bidirectional long short term memory (BLSTM) neural network has been used to identify the fake news on Persian texts and tweets.
+     
+    - [The Clash of Ideologies on Persian Twitter](https://d1wqtxts1xzle7.cloudfront.net/67518699/The_Clash_of_Ideologies_on_Persian_Twitter-libre.pdf?1622833771=&response-content-disposition=inline%3B+filename%3DThe_Clash_of_Ideologies_on_Persian_Twitt.pdf&Expires=1693918025&Signature=NXXaS5WIizCom1dQMjOujReTagCuH9s4BMvLvCPF5Ue380v0HO2ct3e5dP9EgBonG17loNZXa5GNJL3AZVTpZLs8ajRmxzcTBb3Zsh9004evXZI~Gz5aQGoVMNLZ8-icx1zn41bKHOzkRTP8nTFAE6yA7Zgo85jXwghq3CvlUrnC2c3u7oXR7Ny-kzJCe-QyXl-8-zmkG1SBorNDspkCwxypo-VFxz24V07uFVdVoz1FvZB5JyaSGWGM9txmxI98V6lHZiO4DWZItQpxgn7Km9yJbrwRl4KdJ2mT00bG18EJuHfrIuepXviEd35H1PBveAbBsegxINzYuBomwacAEw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+      + In this paper, we provide a data-driven analysis of the Persian Twittersphere from a political perspective to demonstrate how the balance of power in the battle of ideas and ideologies has evolved over time, both in numeric terms and qualitatively.
+    
+    
+    - [Twitter sentiment analysis from Iran about COVID 19 vaccine](https://www.sciencedirect.com/science/article/pii/S1871402121003878)
+      + First, a total of 803278 Persian tweets were retrieved from Twitter, mentioning COVIran Barekat (the homegrown vaccine), Pfizer/BioNTech, AstraZeneca/Oxford, Moderna, and Sinopharm (imported vaccines) between April 1, 2021 and September 30, 2021. Then, we identified sentiments of retrieved tweets using a deep learning sentiment analysis model based on CNN-LSTM architecture. Finally, we investigated Iranian views toward COVID-19-vaccination.
+    
+    - [Persian Emoji Prediction Using Deep Learning and Emoji Embedding](https://ieeexplore.ieee.org/abstract/document/9303639)
+      + In this article, using deep neural networks an attempt for the first time has been made to predict the emoji for Persian text data extracted from Twitter.
+ 
+
 - [Facial Expression and Computer Vision studies on Twitter](#Facial-Expression-and-Computer-Vision-studies-on-Twitter)
