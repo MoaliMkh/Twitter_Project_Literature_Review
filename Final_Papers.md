@@ -16,7 +16,7 @@
     - [Friends don't lie: inferring personality traits from social network structure](https://dl.acm.org/doi/abs/10.1145/2370216.2370266)
       + This article investigates the relationships between social network structure and personality; it assesses the performances of different subsets of structural network features, and in particular those concerned with ego-networks, in predicting the Big-5 personality traits. In addition to traditional survey-based data, this work focuses on social networks derived from real-life data gathered through smartphones.
      
-     - [Emerging Late Adolescent Friendship Networks and Big Five Personality Traits: A Social Network Approach](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-6494.2010.00625.x)
+    - [Emerging Late Adolescent Friendship Networks and Big Five Personality Traits: A Social Network Approach](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-6494.2010.00625.x)
       + The current study focuses on the emergence of friendship networks among just-acquainted individuals, investigating the effects of Big Five personality traits on friendship selection processes.
    
 
