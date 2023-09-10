@@ -9,25 +9,24 @@
  
     - [An Introduction to Social Network Analysis for Personality and Social Psychologists](https://journals.sagepub.com/doi/abs/10.1177/1948550617709114)
       + This paper discusses Social network analysis (SNA). SNA is a methodology for studying the connections and behavior of individuals within social groups.
-    - [Friends don't lie: inferring personality traits from social network structure](https://dl.acm.org/doi/abs/10.1145/2370216.2370266)
-      + This article investigates the relationships between social network structure and personality; it assesses the performances of different subsets of structural network features, and in particular those concerned with ego-networks, in predicting the Big-5 personality traits. In addition to traditional survey-based data, this work focuses on social networks derived from real-life data gathered through smartphones.
      
     - [Social network use and personality](https://www.sciencedirect.com/science/article/pii/S0747563210000580)
       + They found that while there was a connection between the personalities of surfers and their behavior on Facebook, it was not strong. This study is based on that of Ross et al. (2009), but in our study the self-reports of subjects, were replaced by more objective criteria, measurements of the user-information upload on Facebook.
- 
+
+    - [Friends don't lie: inferring personality traits from social network structure](https://dl.acm.org/doi/abs/10.1145/2370216.2370266)
+      + This article investigates the relationships between social network structure and personality; it assesses the performances of different subsets of structural network features, and in particular those concerned with ego-networks, in predicting the Big-5 personality traits. In addition to traditional survey-based data, this work focuses on social networks derived from real-life data gathered through smartphones.
+     
  
     - [Personality on Social Network Sites: An Application of the Five Factor Model](https://repec.ethz.ch/ets/papers/wehrli_studivz_big5.pdf)
       + In this paper we explore how individual personality characteristics influence online social networking behavior.
-
-  + [Different Aspects of Personality](#Different-Aspects-of-Personality)
-
-
+     
     - [You are what you tweet: Personality expression and perception on Twitter](https://www.sciencedirect.com/science/article/abs/pii/S009265661200133X)
       + In this study, we measured the Big Five personality traits of 142 participants and collected their tweets over a 1-month period. Extraversion, agreeableness, openness, and neuroticism were associated with specific linguistic markers, suggesting that personality manifests in microblogs.
      
-
     - [Mining User Personality in Twitter](https://www.researchgate.net/profile/Fabio-Celli/publication/268433988_Mining_User_Personality_in_Twitter/links/551933a90cf273292e70d840/Mining-User-Personality-in-Twitter.pdf)
       + The paper describes how we collected and annotated “Personalitwit”, a corpus of 25700 posts from the popular micro-blogging site Twitter, automatically annotated by user personality and by language with two computational linguistic tools. From the analysis of that data emerged how different writng styles and personality models are associated to different communitites using different devices to post to Twitter.
+
+  + [Different Aspects of Personality](#Different-Aspects-of-Personality)
 
     - [Personality and social network effects on romantic relationships: a dyadic approach](https://journals.sagepub.com/doi/abs/10.1002/per.519)
       + The quality of romantic relationships and their associations with both partners' personality traits and social networks were studied in 100 younger couples. The similarity of partners was modest with respect to personality traits, and moderate to large with respect to the perceived quality of the partner relationship and their social networks.
