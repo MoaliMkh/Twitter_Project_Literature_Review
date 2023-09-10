@@ -15,8 +15,6 @@
     - [Social network use and personality](https://www.sciencedirect.com/science/article/pii/S0747563210000580)
       + They found that while there was a connection between the personalities of surfers and their behavior on Facebook, it was not strong. This study is based on that of Ross et al. (2009), but in our study the self-reports of subjects, were replaced by more objective criteria, measurements of the user-information upload on Facebook.
  
-    - [Seeing things clearly: social structure, personality, and accuracy in social network perception](https://www.sciencedirect.com/science/article/abs/pii/S0378873398000082)
-      + This paper argues that the study of accuracy in social network perception should consider the effect of both situational factors and individual differences. 
  
     - [Personality on Social Network Sites: An Application of the Five Factor Model](https://repec.ethz.ch/ets/papers/wehrli_studivz_big5.pdf)
       + In this paper we explore how individual personality characteristics influence online social networking behavior.
