@@ -168,10 +168,6 @@
 
 
   + [Advanced Personality Prediction](#Advanced-Personality-Prediction)
- 
-
-    - [Artificial Intelligence Model for the Identification of the Personality of Twitter Users through the Analysis of Their Behavior in the Social Network](https://www.mdpi.com/2079-9292/11/22/3811)
-      + In this work, the development of a data analysis model with machine learning algorithms with the ability to predict the personality of a user based on their activity on Twitter is proposed. To do this, a data collection and transformation process is carried out to be analyzed with sentiment analysis techniques and the linguistic analysis of tweets
 
     - [Predicting Personality from Twitter](https://ieeexplore.ieee.org/abstract/document/6113107)
       + In this paper, a method is presented by which a user's personality can be accurately predicted through the publicly available information on their Twitter profile.
