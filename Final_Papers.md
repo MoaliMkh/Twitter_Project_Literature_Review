@@ -168,9 +168,6 @@
 
 
   + [Advanced Personality Prediction](#Advanced-Personality-Prediction)
-
-    - [Predicting Personality from Twitter](https://ieeexplore.ieee.org/abstract/document/6113107)
-      + In this paper, a method is presented by which a user's personality can be accurately predicted through the publicly available information on their Twitter profile.
  
     - [Transformer based Deep Intelligent Contextual Embedding for Twitter sentiment analysis](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2030306X)
       + In this paper, we present a transformer-based method for sentiment analysis that encodes representation from a transformer and applies deep intelligent contextual embedding to enhance the quality of tweets by removing noise while taking word sentiments, polysemy, syntax, and semantic knowledge into account.
@@ -211,9 +208,6 @@
      
     - [A machine learning approach for Twitter spammers detection](https://ieeexplore.ieee.org/abstract/document/6987029/)
       + The paper proposes an inductive-learning method for the detection of Twitter-spammers, and applies a Random-Forest approach to a limited set of features that are extracted from traffic.
-  
-    - [Large-scale machine learning at twitter](https://dl.acm.org/doi/abs/10.1145/2213836.2213958)
-      + The core of this work lies in recent Pig extensions to provide predictive analytics capabilities that incorporate machine learning, focused specifically on supervised classification. In particular, we have identified stochastic gradient descent techniques for online learning and ensemble methods as being highly amenable to scaling out to large amounts of data.
 
     - [COVID-Twitter-BERT: A natural language processing model to analyse COVID-19 content on Twitter](https://www.frontiersin.org/articles/10.3389/frai.2023.1023281/full)
       + This paper aims to evaluate the performance of CT-BERT on different classification datasets and compare it with BERT-LARGE, its base model.
