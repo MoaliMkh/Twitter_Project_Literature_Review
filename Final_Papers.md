@@ -268,12 +268,6 @@
   
   - [Categorizing and Inferring the Relationship between the Text and Image of Twitter Posts](https://aclanthology.org/P19-1272/)
     + This paper studies how the meaning of the entire tweet is composed through the relationship between its textual content and its image. We build and release a data set of image tweets annotated with four classes which express whether the text or the image provides additional information to the other modality. 
-   
-
-   
-  - [Promoting European countries' destination image through Twitter](https://d1wqtxts1xzle7.cloudfront.net/71416792/PROMOTING_EUROPEAN_COUNTRIES_DESTINATIO20211005-5618-10yzc1x.pdf?1633446827=&response-content-disposition=inline%3B+filename%3DPromoting_European_CountriesDestination.pdf&Expires=1693921466&Signature=Ltm719Y3vqQ5zKvcF7647yWwqa0LCXchctHp~LkjNMabhfvlftPhu7YlrkGrtmnXk-YBf1FCh1j0PdS-uxrhn6Ei2Y-LyZP-8uVVgsaS0YsyZRUliqdhydgEFVcZnGgtVN7oHPT9NvQhGL0w7fGw1GwtMMgKZT~BOW9fo7Dza3gLLtqsseORwAekb8eNjDmMTBlwT41KfBoDuIUNvYrXzmj7IuF56WlvXvw3KgErBL7Jxv9YCA04ExkbLTuP7jJXOcVastYWdhG76Y4xV4aldALa54EHJQ9j4Vy6NXITMlVbJS1vZq8RG4cDjPPRLVW-9S2lEfaomZUzM7bYi-742w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
-    + This paper records tourism Twitter accounts of 38 Europeans countries and indexes of Twitter performance such as number of followers of each account and indexes of followers’ community involvement.
-
 
      
   - [Our Twitter Profiles, Our Selves: Predicting Personality with Twitter](https://ieeexplore.ieee.org/abstract/document/6113111)
