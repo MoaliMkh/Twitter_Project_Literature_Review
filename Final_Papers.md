@@ -276,10 +276,6 @@
     + We have collected the Twitter profile data, last month tweets and stored them in MySQL data base. This collection of data sets is further analyzed with their profile images using features of color, image composition, image type, and their online behavior. We are predicting about their personality traits using their posts and online engagement on Twitter.
   - [Cross-platform and cross-interaction study of user personality based on images on Twitter and Flickr](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198660)
     + In this study, we analyzed variation in image content with user personality across three interaction types (posts, likes and profile images) and two platforms, using a unique data set of users who are active on both Twitter and Flickr.
-
-
-  - [Effects of Co-Creation in a Tourism Destination Brand Image Through Twitter](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747657)
-    + The purpose of this paper is to analyze the effects of co-creation of a tourist brand image projected in Twitter by using NVIVO 11. It takes the case study of the Smart Fuerteventura brand, an ecotourism association made up of a group of local firms.
    
   - [Image Attributes and Diffusion via Twitter: The Case of #guncontrol](https://ieeexplore.ieee.org/abstract/document/7070027/)
     + We report on a study exploring how Twitter user attributes and the characteristics of the images they share online influence the diffusion of those images. Two-hundred and ninety unique images were collected from Twitter in October 2013 associated with the gun control hash tag [guncontrol].
