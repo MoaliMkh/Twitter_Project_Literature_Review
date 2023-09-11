@@ -277,5 +277,3 @@
   - [Cross-platform and cross-interaction study of user personality based on images on Twitter and Flickr](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198660)
     + In this study, we analyzed variation in image content with user personality across three interaction types (posts, likes and profile images) and two platforms, using a unique data set of users who are active on both Twitter and Flickr.
    
-  - [Image Attributes and Diffusion via Twitter: The Case of #guncontrol](https://ieeexplore.ieee.org/abstract/document/7070027/)
-    + We report on a study exploring how Twitter user attributes and the characteristics of the images they share online influence the diffusion of those images. Two-hundred and ninety unique images were collected from Twitter in October 2013 associated with the gun control hash tag [guncontrol].
