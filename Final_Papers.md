@@ -76,6 +76,9 @@
       + This work focuses on the effective detection of the personality of social network users, using advanced classifiers such as XGBoost and Ensemble for prediction.
     - [Personality Traits Recognition on Social Network - Facebook](https://ojs.aaai.org/index.php/ICWSM/article/view/14464)
       + This paper presents automatic recognition of Big-5 personality traits on social network (Facebook) using users’ status text.
+     
+    - [Machine Learning for Social Network Analysis: A Systematic Literature Review](https://www.researchgate.net/profile/Sagar-S-De/publication/251236864_Machine_Learning_for_Social_Network_Analysis_A_Systematic_Literature_Review/links/59e8914e458515c363133f6a/Machine-Learning-for-Social-Network-Analysis-A-Systematic-Literature-Review.pdf)
+      + In this paper, we have reviewed the theoretical aspects of social network analysis with a combination of machine learning-based techniques, its representation, tools and techniques used for analysis. Additionally, the source of data and its applications are also highlighted in this paper.
 
 
   + [Deep Learning](#Deep-Learning)
