@@ -132,8 +132,6 @@
     - [Intelligent detection of hate speech in Arabic social network: A machine learning approach](https://journals.sagepub.com/doi/abs/10.1177/0165551520917651)
       + This drew our attention to aspire healthy online environments that are free of hatred and discrimination. Therefore, this article aims to detect cyber hate speech based on Arabic context over Twitter platform, by applying Natural Language Processing (NLP) techniques, and machine learning methods. 
 
-    - [Parallel Computing for Machine Learning in Social Network Analysis](https://ieeexplore.ieee.org/abstract/document/7965209)
-      + This paper discusses the state of each ingredient with a specific focus on: a.) how deep learning can apply to large-scale social network analysis and; b.) the computing resources required to make such analyses feasible.
 
 
 - [Sentiment Analysis and Personality Prediction on Twitter](#Sentiment-Analysis-and-Personality-Prediction-on-Twitter)
